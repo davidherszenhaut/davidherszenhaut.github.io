@@ -6,5 +6,19 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  plugins: [
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Portfolio",
+        short_name: "portfolio",
+        start_url: "/",
+        background_color: "#2e3440",
+        theme_color: "#2e3440",
+        display: "standalone",
+        icon: "src/images/icon.png",
+        crossOrigin: `use-credentials`,
+      },
+    },
+  ]
 }

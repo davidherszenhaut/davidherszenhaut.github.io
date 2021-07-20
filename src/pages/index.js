@@ -1,5 +1,6 @@
 // @format
 import React from "react"
+import { Helmet } from "react-helmet";
 import Header from "../components/Header"
 import Hero from "../components/Hero"
 import Footer from "../components/Footer"
@@ -33,6 +34,11 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
+        <Helmet>
+          <meta charSet="utf-8" />
+          <meta name="description" content="David Herszenhaut's portfolio" />
+          <title>David Herszenhaut</title>
+        </Helmet>
         <Header
           onProjectsChange={this.handleProjectsChange}
           onResumeChange={this.handleResumeChange}

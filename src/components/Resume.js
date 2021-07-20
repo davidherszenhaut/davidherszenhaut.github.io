@@ -7,6 +7,7 @@ import Experience from "./Experience"
 import Skills from "./Skills"
 import Extracurriculars from "./Extracurriculars"
 import Coursework from "./Coursework"
+import resume from "../../content/data/resume.pdf";
 
 export default class Resume extends React.Component {
   render() {
@@ -19,16 +20,19 @@ export default class Resume extends React.Component {
     const coursework = data[5].data
     return (
       <div>
+        <div id="resume-pdf-container">
+          <a id="resume-pdf" href={resume}>View as PDF</a>
+        </div>
         <Contact data={contact} />
-        <hr/>
+        <hr />
         <Education data={education} />
-        <hr/>
+        <hr />
         <Experience data={experience} />
-        <hr/>
+        <hr />
         <Skills data={skills} />
-        <hr/>
+        <hr />
         <Extracurriculars data={extracurriculars} />
-        <hr/>
+        <hr />
         <Coursework data={coursework} />
       </div>
     )

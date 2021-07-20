@@ -7,7 +7,7 @@ export default class Skills extends React.Component {
     const programmingLanguages = data["Programming Languages"].join(", ")
     const librariesFrameworks = data["Libraries/Frameworks"].join(", ")
     const tools = data["Tools"].join(", ")
-    const spokenLanguages = data["Spoken Languages"].join(", ")
+    const spokenLanguages = data["Fluent In"].join(", ")
     return (
       <div>
         <h2>Skills</h2>

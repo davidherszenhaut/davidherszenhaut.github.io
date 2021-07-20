@@ -8,6 +8,8 @@
 
 * add `<title>` and `<meta>` tags
 * double check efficacy of `Updating` instructions
+* make resume page look like actual resume (header spacing, content)
+* fix content on projects page
 
 # Component Hierarchy
 

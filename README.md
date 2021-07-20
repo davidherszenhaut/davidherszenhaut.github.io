@@ -1,15 +1,16 @@
 # Updating
 
 1. Clone [portfolio](https://github.com/davidherszenhaut/portfolio) and [davidherszenhaut.github.io](https://github.com/davidherszenhaut/davidherszenhaut.github.io)
-2. Make changes in `portfolio` before copying over to `staging` branch in `davidherszenhaut.github.io`
-3. Run `npm run deploy` to deploy to `master` from `staging` in `davidherszenhaut.github.io`
+2. Make changes in `portfolio` and run `npm run deploy`
+3. Copy the results from `portfolio`'s `gh-pages` branch to `davidherszenhaut.github.io`'s `master` branch.
 
 # TODO
 
-* add `<title>` and `<meta>` tags
 * double check efficacy of `Updating` instructions
 * make resume page look like actual resume (header spacing, content)
 * fix content on projects page
+* double check favicon on resume pdf page
+* double check responsiveness (hero image)
 
 # Component Hierarchy
 

@@ -24,6 +24,10 @@
   align-items: center;
 }
 
+a {
+  padding: 10px;
+}
+
 a:hover {
   cursor: pointer;
 }
@@ -31,5 +35,4 @@ a:hover {
 .activeTab {
   color: #8fbcbb;
   border: 1px solid #8fbcbb;
-  padding: 10px;
 }

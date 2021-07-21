@@ -18,7 +18,7 @@ export default class Hero extends React.Component {
               return (
                 <p key={e}>
                   <a key={e} href={data.links[e][0]}>
-                    <img src={data.links[e][1]} />
+                    <img src={data.links[e][1]} alt={e + " link"} />
                   </a>
                 </p>
               )

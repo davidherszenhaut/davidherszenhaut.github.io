@@ -1,44 +1,79 @@
 [
   {
+    "name": "rollgraph",
+    "stack": [
+      "react",
+      "d3.js",
+      "typescript"
+    ],
+    "description": "A website to display data visualizations based on simulated dice rolls. The projects integrates GitHub Actions to check pull requests (using Jest, ESLint, and Prettier) and automatically deploy on merges.",
+    "links": {
+      "code": "https://github.com/davidherszenhaut/rollgraph",
+      "demo": "https://davidherszenhaut.github.io/rollgraph/"
+    },
+    "img": "TODO"
+  },
+  {
     "name": "Paintr",
-    "stack": ["java"],
-    "description": "A simple graphics editor built from the ground up using the Swing toolkit for Java. Functionality includes saving and loading multiple canvases, right click gestures, snap-to-grid movement, and canvas switching animations.",
+    "stack": [
+      "java"
+    ],
+    "description": "A simple drawing program built from the ground up using the Swing toolkit for Java. Functionality includes saving and loading multiple canvases, right click gestures via the $1 recognizer algorithm, snap-to-grid movement, and canvas switching animations.",
     "img": "TODO"
   },
   {
     "name": "SmarTrek",
-    "stack": ["react", "python"],
-    "description": "SmarTrek is a web application built for the Summer 2019 ITC Hackathon that helps you pick the safest route to your destination. Supports several routes for each of walking, bicycling, driving, and riding transit.",
+    "stack": [
+      "react",
+      "react-bootstrap",
+      "python"
+    ],
+    "description": "SmarTrek is a web application built for the Summer 2019 ITC Hackathon that helps you pick the safest route to your destination using data from the NYPD Traffic and Google Maps APIs. Supports several routes for each mode of transportation: walking, bicycling, driving, and public transit.",
     "links": {
-      "code": "https://github.com/ethanbin/SmarTrek"
+      "code": "https://github.com/ethanbin/SmarTrek/tree/master/smartrek-web-app"
     },
     "img": "TODO"
   },
   {
     "name": "Dungeon Crawler",
-    "stack": ["unity"],
+    "stack": [
+      "unity",
+      "c#"
+    ],
     "description": "A basic action role-playing game where you take control of a knight fighing different monsters on your way to treasure.",
     "img": "TODO"
   },
   {
     "name": "OpenEval",
-    "stack": ["node", "sql", "bootstrap"],
+    "stack": [
+      "node.js",
+      "mongodb",
+      "bootstrap",
+      "handlebars"
+    ],
     "description": "An anonymous survey web application that allows Georgia Tech professors to receive feedback on their teaching.",
     "links": {
-      "code": "https://github.com/dedding4341/OpenEval/tree/master/Web"
+      "code": "https://github.com/davidherszenhaut/OpenEvalWebApplication"
     },
     "img": "TODO"
   },
   {
     "name": "Possibility of Precipitation",
-    "stack": ["c"],
+    "stack": [
+      "c"
+    ],
     "description": "A Game Boy Advance game written in C that takes inspiration from the game 'Risk of Rain'.",
     "img": "TODO"
   },
   {
     "name": "Dota Data",
-    "stack": ["html", "css", "javascript"],
-    "description": "A series of D3.js data visualizations.",
+    "stack": [
+      "d3.js",
+      "html5",
+      "css3",
+      "javascript"
+    ],
+    "description": "Data visualizations based on video game statistics.",
     "links": {
       "demo": "https://davidherszenhaut.github.io/dota-data/",
       "code": "https://github.com/davidherszenhaut/dota-data"
@@ -47,29 +82,34 @@
   },
   {
     "name": "PyBot",
-    "stack": ["python", "sql"],
+    "stack": [
+      "python",
+      "sqlite"
+    ],
     "description": "A chat bot for Discord built using the discord.py API wrapper.",
-    "links": {
-      "case study": "TODO"
-    },
+    "links": {},
     "img": "TODO"
   },
   {
     "name": "metal_concerts",
-    "stack": ["python"],
+    "stack": [
+      "python"
+    ],
     "description": "A Python script to find interesting metal concerts near me.",
     "links": {
-      "case study": "TODO",
       "code": "https://github.com/davidherszenhaut/metal_concerts"
     },
     "img": "TODO"
   },
   {
     "name": "Word Clock",
-    "stack": ["html", "css", "javascript"],
+    "stack": [
+      "html5",
+      "css3",
+      "javascript"
+    ],
     "description": "A clock that tells time with words.",
     "links": {
-      "case study": "TODO",
       "demo": "https://davidherszenhaut.github.io/wordclock/",
       "code": "https://github.com/davidherszenhaut/wordclock"
     },
@@ -77,10 +117,13 @@
   },
   {
     "name": "hex2rgb",
-    "stack": ["html", "css", "javascript"],
+    "stack": [
+      "html5",
+      "css3",
+      "javascript"
+    ],
     "description": "A tool to convert a color code from hexadecimal to RGB.",
     "links": {
-      "case study": "TODO",
       "demo": "https://davidherszenhaut.github.io/hex2rgb/",
       "code": "https://github.com/davidherszenhaut/hex2rgb"
     },
@@ -88,10 +131,13 @@
   },
   {
     "name": "hexclock",
-    "stack": ["html", "css", "javascript"],
+    "stack": [
+      "html5",
+      "css3",
+      "javascript"
+    ],
     "description": "A hexadecimal clock that changes color with each passing second.",
     "links": {
-      "case study": "TODO",
       "demo": "https://davidherszenhaut.github.io/hexclock/",
       "code": "https://github.com/davidherszenhaut/hexclock"
     },
@@ -99,10 +145,13 @@
   },
   {
     "name": "Flask Web Application",
-    "stack": ["html", "css", "python"],
+    "stack": [
+      "html5",
+      "css3",
+      "python"
+    ],
     "description": "A simple website built using the Flask framework.",
     "links": {
-      "case study": "TODO",
       "code": "https://github.com/davidherszenhaut/hexclock"
     },
     "img": "TODO"

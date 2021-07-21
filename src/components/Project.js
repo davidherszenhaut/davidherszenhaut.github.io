@@ -5,24 +5,25 @@ export default class Project extends React.Component {
   render() {
     const data = this.props.data
     return (
-      <div>
+      <div className="projectContainer">
         <h1>{data.name}</h1>
         <p>
-          {data.stack.map(e => {
-            return <span key={e}>{e} </span>
-          })}
+          {data.stack.sort().join(", ")}
         </p>
-        {data.links
+        {/* {data.links
           ? Object.keys(data.links)
-              .filter(key => data.links[key] !== "TODO")
-              .map((e, i) => (
-                <span key={i}>
-                  {i > 0 && " "}
-                  <a href={data.links[e]}>{e}</a>
-                </span>
-              ))
-          : null}
+            .filter(key => data.links[key] !== "TODO")
+            .map((e, i) => (
+              <span key={i}>
+                {i > 0 && " "}
+                <a href={data.links[e]}>{e}</a>
+              </span>
+            ))
+          : null} */}
+        {data.links ? Object.keys(data.links).reverse().map((e, i) => <a key={i} href={data.links[e]}>{e}</a>) : null
+        }
         <p>{data.description}</p>
+        <hr></hr>
       </div>
     )
   }

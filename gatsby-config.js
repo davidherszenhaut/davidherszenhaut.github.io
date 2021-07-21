@@ -6,7 +6,7 @@
 
 module.exports = {
   /* Your site config here */
-  pathPrefix: "/portfolio",
+  pathPrefix: "/",
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,

@@ -11,7 +11,7 @@ export default class Coursework extends React.Component {
           <b>Computer Science</b>
         </p>
         <ul>
-          {data["cs"].reverse().map((e, i) => {
+          {data["cs"].sort().reverse().map((e, i) => {
             return <li key={i}>{e}</li>
           })}
         </ul>
@@ -19,7 +19,7 @@ export default class Coursework extends React.Component {
           <b>Mathematics</b>
         </p>
         <ul>
-          {data["math"].reverse().map((e, i) => {
+          {data["math"].sort().reverse().map((e, i) => {
             return <li key={i}>{e}</li>
           })}
         </ul>
@@ -27,7 +27,7 @@ export default class Coursework extends React.Component {
           <b>Psychology</b>
         </p>
         <ul>
-          {data["psyc"].reverse().map((e, i) => {
+          {data["psyc"].sort().reverse().map((e, i) => {
             return <li key={i}>{e}</li>
           })}
         </ul>

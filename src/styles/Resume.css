@@ -29,9 +29,12 @@
 #resume-pdf {
   border: 1px solid #a3be8c;
   padding: 10px;
+  background-color: #a3be8c;
+  color: #2e3440;
+  border-radius: 4px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1300px) {
   .educationHeader,
   .experienceHeader,
   .extracurricularsHeader,

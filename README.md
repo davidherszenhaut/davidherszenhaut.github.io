@@ -1,8 +1,6 @@
 # TODO
 
-* make resume page look like actual resume (header spacing, content)
 * add project pictures
-* double check responsiveness
 * double check lighthouse
 
 # Component Hierarchy

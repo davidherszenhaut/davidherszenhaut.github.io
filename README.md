@@ -1,7 +1,6 @@
 # TODO
 
 * add project pictures
-* double check lighthouse
 
 # Component Hierarchy
 

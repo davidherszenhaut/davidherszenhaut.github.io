@@ -34,7 +34,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        <Helmet>
+        <Helmet htmlAttributes={{ lang: "en" }}>
           <meta charSet="utf-8" />
           <meta name="description" content="David Herszenhaut's portfolio" />
           <title>David Herszenhaut</title>

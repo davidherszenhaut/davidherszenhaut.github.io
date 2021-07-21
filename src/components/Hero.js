@@ -32,6 +32,8 @@ export default class Hero extends React.Component {
             src={selfPortrait}
             alt="Self Portrait"
             className="selfPortrait"
+            width="160"
+            height="160"
           />
         </div>
       </div>

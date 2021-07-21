@@ -11,8 +11,6 @@ export default class Experience extends React.Component {
             <div key={i}>
               <div className="experienceHeader">
                 <p>{e.title}</p>
-                <p>{e.company}</p>
-                <p>{e.place}</p>
                 <p>{e.date}</p>
               </div>
               <ul>

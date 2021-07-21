@@ -13,7 +13,6 @@ export default class Education extends React.Component {
             <div key={i}>
               <div className="educationHeader">
                 <p>{e.name}</p>
-                <p>{e.place}</p>
                 <p>{e.date}</p>
               </div>
               <ul>

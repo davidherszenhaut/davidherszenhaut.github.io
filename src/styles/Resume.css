@@ -1,4 +1,8 @@
-.contactContainer {
+.resumeContainer p {
+  margin: 0;
+}
+
+.contactInfoContainer {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -9,6 +13,7 @@
 .educationHeader,
 .experienceHeader,
 .extracurricularsHeader {
+  margin-top: 20px;
   font-weight: bold;
   display: flex;
   flex-direction: row;
@@ -29,7 +34,8 @@
 @media only screen and (max-width: 900px) {
   .educationHeader,
   .experienceHeader,
-  .extracurricularsHeader {
+  .extracurricularsHeader,
+  .contactInfoContainer {
     flex-direction: column;
   }
 }

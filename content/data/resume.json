@@ -11,8 +11,7 @@
     "data": [
       {
         "name": "Georgia Institute of Technology",
-        "place": "Atlanta, Georgia",
-        "date": "August 2014 - December 2019",
+        "date": "August 2014–December 2019",
         "text": [
           "Bachelor of Science in Computer Science",
           "3.74 Major GPA"
@@ -24,20 +23,16 @@
     "type": "Experience",
     "data": [
       {
-        "title": "Junior Software Developer",
-        "company": "Zuora",
-        "place": "Atlanta, Georgia",
-        "date": "March 2020 - Present",
+        "title": "Zuora, Junior Software Developer",
+        "date": "March 2020–Present",
         "text": [
           "Reduced processing fees on all credit card transactions by providing the capability to send Level 3 data",
           "Added support for the SEPA payment method with Stripe and Credit Card References with Worldpay"
         ]
       },
       {
-        "title": "Junior Software Developer Intern",
-        "company": "Anodot",
-        "place": "Ra'anana, Israel",
-        "date": "June 2019 - August 2019",
+        "title": "Anodot, Junior Software Developer Intern",
+        "date": "June 2019–August 2019",
         "text": [
           "Developed new pages in existing React application to improve administrator workflow",
           "Improved user productivity by creating new API calls using Node.js and Redux",
@@ -45,10 +40,8 @@
         ]
       },
       {
-        "title": "Student Researcher",
-        "company": "Georgia Tech Research Institute",
-        "place": "Atlanta, Georgia",
-        "date": "March 2018 - July 2018",
+        "title": "Georgia Tech Research Institute, Student Researcher",
+        "date": "March 2018–July 2018",
         "text": [
           "Built a Django web application to demonstrate blockchain application’s proof of concept",
           "Assisted with research detailing the potential use of blockchain technology in healthcare",
@@ -74,7 +67,7 @@
       ],
       "Tools": [
         "Git",
-        "Linux (Debian/Ubuntu)"
+        "Linux (Debian, Ubuntu, Arch)"
       ],
       "Fluent In": [
         "English (Native)",
@@ -87,31 +80,24 @@
     "type": "Extracurriculars",
     "data": [
       {
-        "name": "Cellist",
-        "organization": "Georgia Tech Symphony Orchestra",
-        "date": "August 2014 - May 2016"
+        "name": "Georgia Tech Symphony Orchestra, Cellist",
+        "date": "August 2014–May 2016"
       },
       {
-        "name": "Cellist",
-        "organization": "Georgia Tech Chamber Orchestra",
-        "date": "August 2015 - May 2016"
+        "name": "Georgia Tech Chamber Orchestra, Cellist",
+        "date": "August 2015–May 2016"
       },
       {
-        "name": "Guitarist",
-        "organization": "Under the Couch Musicians Club",
-        "date": "August 2014 - May 2015"
+        "name": "Under the Couch Musicians Club, Guitarist",
+        "date": "August 2014–May 2015"
       },
       {
-        "name": "Secretary",
-        "organization": "Tri-M Music Honor Society",
-        "date": "August 2013 - May 2014",
-        "text": "Organized school-wide music-related events to raise awareness about music in the community"
+        "name": "Tri-M Music Honor Society, Secretary",
+        "date": "August 2013–May 2014"
       },
       {
-        "name": "Volunteer Tutor",
-        "organization": "Joseph Wheeler High School (Magnet Program)",
-        "date": "August 2013 - May 2014",
-        "text": "Tutored high school sophomores and juniors in Honors Biology and AP Biology"
+        "name": "Joseph Wheeler High School (Magnet Program), Volunteer Tutor",
+        "date": "August 2013–May 2014"
       }
     ]
   },

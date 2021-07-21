@@ -1,6 +1,8 @@
 import React from "react"
 import PropTypes from "prop-types"
 
+import "../styles/Resume.css"
+
 import Contact from "./Contact"
 import Education from "./Education"
 import Experience from "./Experience"
@@ -19,7 +21,7 @@ export default class Resume extends React.Component {
     const extracurriculars = data[4].data
     const coursework = data[5].data
     return (
-      <div>
+      <div className="resumeContainer">
         <div id="resume-pdf-container">
           <a id="resume-pdf" href={resume}>View as PDF</a>
         </div>

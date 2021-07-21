@@ -11,10 +11,8 @@ export default class Extracurriculars extends React.Component {
             <div key={i}>
               <div className="extracurricularsHeader">
                 <p>{e.name}</p>
-                <p>{e.organization}</p>
                 <p>{e.date}</p>
               </div>
-              {e.text ? <li>{e.text}</li> : null}
             </div>
           )
         })}

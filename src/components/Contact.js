@@ -7,12 +7,12 @@ export default class Contact extends React.Component {
   render() {
     const data = this.props.data
     return (
-      // <div className="contactContainer">
-      <div>
+      <div className="contactContainer">
         <h2>Contact</h2>
-        <p>{data.email}</p>
-        <p>{data.phone}</p>
-        <p>{data.linkedin}</p>
+        <div className="contactInfoContainer">
+          <p>{data.email}</p>
+          <p>{data.phone}</p>
+        </div>
       </div>
     )
   }

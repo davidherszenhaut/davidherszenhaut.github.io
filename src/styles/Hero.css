@@ -19,20 +19,21 @@ h2 {
 .selfPortrait {
   border-radius: 2.5%;
   height: 10em;
+  margin-left: 20px;
 }
 
 .linkContainer {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   max-width: 70%;
   margin: 0 auto;
 }
 
 @media only screen and (max-width: 500px) {
-  .linkContainer {
+  .linkContainer, .captionImgContainer {
     flex-direction: column;
   }
 }

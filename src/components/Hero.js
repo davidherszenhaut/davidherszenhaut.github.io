@@ -14,11 +14,11 @@ export default class Hero extends React.Component {
         <div className="linkContainer">
           {Object.keys(data.links)
             .sort()
-            .map(function(e) {
+            .map(function (e) {
               return (
                 <p key={e}>
-                  <a key={e} href={data.links[e]}>
-                    {e}
+                  <a key={e} href={data.links[e][0]}>
+                    <img src={data.links[e][1]} />
                   </a>
                 </p>
               )

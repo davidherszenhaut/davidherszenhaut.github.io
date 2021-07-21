@@ -1,12 +1,18 @@
 {
   "title": "David Herszenhaut",
-  "subtitle": "Software Engineer and Georgia Tech graduate",
-  "caption": "Hi, my name is David. I am a Junior Software Developer at Zuora and a recent graduate of the Georgia Institute of Technology (B.Sc. in Computer Science). I enjoy making music, reading fantasy novels, going to concerts, and building things.",
+  "subtitle": "Software Developer and Georgia Tech Graduate",
+  "caption": "Hi, my name is David. I am a Junior Software Developer at Zuora and a graduate of the Georgia Institute of Technology (B.Sc. in Computer Science). I enjoy making music, reading fantasy novels, going to concerts, and building things.",
   "img": "self-portrait.jpg",
   "email": "david.herszenhaut@gmail.com",
   "phone": "404.993.7732",
   "links": {
-    "linkedin": "https://www.linkedin.com/in/davidherszenhaut/",
-    "github": "https://github.com/davidherszenhaut"
+    "linkedin": [
+      "https://www.linkedin.com/in/davidherszenhaut/",
+      "https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue"
+    ],
+    "github": [
+      "https://github.com/davidherszenhaut",
+      "https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&labelColor=black"
+    ]
   }
 }

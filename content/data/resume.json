@@ -26,8 +26,11 @@
         "title": "Zuora, Junior Software Developer",
         "date": "March 2020–Present",
         "text": [
-          "Reduced processing fees on all credit card transactions by providing the capability to send Level 3 data",
-          "Added support for the SEPA payment method with Stripe and Credit Card References with Worldpay"
+          "Implemented line item payment processing for payment gateways to reduce credit card interchange fees",
+          "Built integrations for alternative payment methods for payment service providers using Apache Velocity and REST APIs",
+          "Created automated test plans to catch errors in development and prevent regressions in production",
+          "Wrote technical specification documents with the support of production management",
+          "Collaborated with customer support to diagnose and resolve customer issues in a timely manner"
         ]
       },
       {

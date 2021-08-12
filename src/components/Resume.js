@@ -9,7 +9,7 @@ import Experience from "./Experience"
 import Skills from "./Skills"
 import Extracurriculars from "./Extracurriculars"
 import Coursework from "./Coursework"
-import resume from "../../content/data/resume.pdf";
+import resume from "../../content/data/David Herszenhaut - Resume.pdf";
 
 export default class Resume extends React.Component {
   render() {

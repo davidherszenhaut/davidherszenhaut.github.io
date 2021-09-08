@@ -23,8 +23,12 @@
     "type": "Experience",
     "data": [
       {
-        "title": "Zuora, Junior Software Developer",
-        "date": "March 2020–Present",
+        "title": "Automated Logic, Software Engineer",
+        "date": "September 2021-Present"
+      },
+      {
+        "title": "Zuora, Software Engineer",
+        "date": "March 2020–September 2021",
         "text": [
           "Implemented line item payment processing for payment gateways to reduce credit card interchange fees",
           "Built integrations for alternative payment methods for payment service providers using Apache Velocity and REST APIs",

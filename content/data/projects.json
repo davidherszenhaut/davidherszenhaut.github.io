@@ -1,5 +1,20 @@
 [
   {
+    "name": "Pokédex",
+    "stack": [
+      "react",
+      "typescript",
+      "tailwind",
+      "headless ui"
+    ],
+    "description": "A place where people can see details about their favorite Pokémon.",
+    "links": {
+      "code": "https://github.com/davidherszenhaut/pokedex",
+      "demo": "https://davidherszenhaut.github.io/pokedex/"
+    },
+    "img": "TODO"
+  },
+  {
     "name": "rollgraph",
     "stack": [
       "react",

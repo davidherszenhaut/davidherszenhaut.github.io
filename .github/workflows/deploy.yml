@@ -24,7 +24,7 @@ jobs:
           cache: "npm"
 
       - name: Install packages
-        run: npm install
+        run: npm install --legacy-peer-deps && npm audit fix --force
 
       - name: Deploy package
         run: |

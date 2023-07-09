@@ -25,6 +25,7 @@ jobs:
 
       - name: Install packages
         run: npm ci --force
+        run: npm audit fix --force
 
       - name: Deploy package
         run: |

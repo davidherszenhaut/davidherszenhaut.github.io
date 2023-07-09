@@ -24,8 +24,7 @@ jobs:
           cache: "npm"
 
       - name: Install packages
-        run: npm ci --force
-        run: npm audit fix --force
+        run: npm ci && npm update && npm audit fix
 
       - name: Deploy package
         run: |

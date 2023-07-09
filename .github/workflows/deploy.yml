@@ -22,6 +22,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install packages
         run: npm ci --legacy-peer-deps --force
@@ -30,5 +31,5 @@ jobs:
         run: |
           git config --global user.name ${{ secrets.ACTIONS_DEPLOY_USERNAME }}
           git config --global user.email ${{ secrets.ACTIONS_DEPLOY_EMAIL }}
-          git remote set-url origin https://${{ secrets.ACTIONS_DEPLOY_USERNAME }}:${{ secrets.ACTIONS_DEPLOY_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://${{ secrets.ACTIONS_DEPLOY_USERNAME }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           npm run deploy

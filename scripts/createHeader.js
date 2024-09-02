@@ -1,33 +1,40 @@
 export function createHeader() {
   const header = document.createElement("header");
 
+  // home button
   const homeButton = document.createElement("a");
   const homeButtonText = document.createTextNode("David Herszenhaut");
   homeButton.appendChild(homeButtonText);
   homeButton.href = "/";
   header.appendChild(homeButton);
 
-  const pageLinks = document.createElement("div");
+  // navigation links
+  const headerLinks = document.createElement("div");
 
   const projectsLink = document.createElement("a");
   const projectsLinkText = document.createTextNode("Projects");
   projectsLink.appendChild(projectsLinkText);
   projectsLink.href = "/pages/projects.html";
-  pageLinks.appendChild(projectsLink);
+  headerLinks.appendChild(projectsLink);
 
   const resumeLink = document.createElement("a");
   const resumeLinkText = document.createTextNode("Rsum");
   resumeLink.appendChild(resumeLinkText);
   resumeLink.href = "/pages/resume.html";
-  pageLinks.appendChild(resumeLink);
+  headerLinks.appendChild(resumeLink);
 
   const musicLink = document.createElement("a");
   const musicLinkText = document.createTextNode("Music");
   musicLink.appendChild(musicLinkText);
   musicLink.href = "/pages/music.html";
-  pageLinks.appendChild(musicLink);
+  headerLinks.appendChild(musicLink);
 
-  header.appendChild(pageLinks);
+  header.appendChild(headerLinks);
+
+  // theme switcher
+  const toggle = document.createElement("input");
+  toggle.type = "checkbox";
+  header.appendChild(toggle);
 
   document.body.insertBefore(header, document.body.firstChild);
 }

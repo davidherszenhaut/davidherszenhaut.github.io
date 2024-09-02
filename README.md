@@ -10,10 +10,10 @@ $ python -m http.server 3000
 
 # TODO
 
-[ ] reset css
-[ ] recreate current website
-[ ] add music page
-[ ] create new favicon
-[ ] style website
-[ ] add light/dark toggle
-[ ] make `rewrite` the main branch
+- [ ] reset css
+- [ ] recreate current website
+- [ ] add music page
+- [ ] create new favicon
+- [ ] style website
+- [ ] add light/dark toggle
+- [ ] make `rewrite` the main branch

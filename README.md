@@ -14,6 +14,7 @@ $ python -m http.server 3000
 - [ ] recreate current website
 - [ ] add music page
 - [ ] create new favicon
+- [ ] double check `<head>` elements
 - [ ] style website
 - [ ] add light/dark toggle
 - [ ] make `rewrite` the main branch

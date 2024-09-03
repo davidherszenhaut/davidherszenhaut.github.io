@@ -12,9 +12,13 @@ $ python -m http.server 3000
 
 - [ ] reset css
 - [ ] recreate current website
+- [ ] fix type in resume
 - [ ] add music page
+- [ ] add project screenshots
 - [ ] create new favicon
 - [ ] double check `<head>` elements
 - [ ] style website
+- [ ] double check responsiveness
+- [ ] properly capitalize tech stack names
 - [ ] add light/dark toggle
 - [ ] make `rewrite` the main branch

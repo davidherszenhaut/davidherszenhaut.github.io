@@ -36,6 +36,7 @@ export function createProjects() {
         "java"
       ],
       "description": "A simple drawing program built from the ground up using the Swing toolkit for Java. Functionality includes saving and loading multiple canvases, right click gestures via the $1 recognizer algorithm, snap-to-grid movement, and canvas switching animations.",
+      "links": { },
       "img": "TODO"
     },
     {
@@ -83,6 +84,7 @@ export function createProjects() {
         "c"
       ],
       "description": "A Game Boy Advance game written in C that takes inspiration from the game 'Risk of Rain'.",
+      "links": { },
       "img": "TODO"
     },
     {
@@ -177,5 +179,60 @@ export function createProjects() {
       "img": "TODO"
     }
   ];
-  console.log(projects);
+
+
+  projects.forEach((project) => createProject(project));
+}
+
+function createProject(project) {
+  // console.log(project);
+  const projectDiv = document.createElement("div");
+  
+  // name
+  const projectName = document.createTextNode(project.name);
+  projectDiv.appendChild(projectName);
+  
+  // links
+  if (Object.keys(project.links).length !== 0) {
+    const projectLinks = createLinks(project.links);
+    projectDiv.appendChild(projectLinks);
+  }
+
+  // stack
+  const stack = createStack(project.stack);
+  projectDiv.appendChild(stack);
+
+  // description
+  const projectDescription = document.createTextNode(project.description);
+  projectDiv.appendChild(projectDescription);
+  document.body.appendChild(projectDiv);
+}
+
+function createLinks(links) {
+  const linksDiv = document.createElement("div");
+
+  if ("demo" in links) {
+    const demoLink = document.createElement("a");
+    const demoLinkText = document.createTextNode("demo");
+    demoLink.href = links["demo"];
+    demoLink.appendChild(demoLinkText);
+    linksDiv.appendChild(demoLink);
+  }
+
+  if ("code" in links) {
+    const codeLink = document.createElement("a");
+    const codeLinkText = document.createTextNode("code");
+    codeLink.href = links["code"];
+    codeLink.appendChild(codeLinkText);
+    linksDiv.appendChild(codeLink);
+  }
+
+  return linksDiv;
+}
+
+function createStack(stack) {
+  const stackDiv = document.createElement("div");
+  const stackText = document.createTextNode(stack.join(", "));
+  stackDiv.appendChild(stackText);
+  return stackDiv;
 }

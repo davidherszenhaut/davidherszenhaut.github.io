@@ -10,6 +10,7 @@ export function createHeader() {
 
   // navigation links
   const headerLinks = document.createElement("div");
+  headerLinks.id = "header-links";
 
   const projectsLink = document.createElement("a");
   const projectsLinkText = document.createTextNode("Projects");

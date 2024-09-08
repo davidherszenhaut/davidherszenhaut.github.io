@@ -1,7 +1,33 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #2e3440;
+  color: #d8dee9;
+  height: 100vh;
+}
+
+a {
+  color: #8fbcbb;
+}
+
 header {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  background: #3b4252;
+  height: 10vh;
+  border-bottom: 1px solid black;
+}
+
+header * {
+  flex: 1 1 0px;
+}
+
+#header-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 footer {

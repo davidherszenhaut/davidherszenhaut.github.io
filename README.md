@@ -18,5 +18,5 @@ $ python -m http.server 3000
 - [ ] double check responsiveness
 - [x] properly capitalize tech stack names
 - [ ] add light/dark toggle
-- [ ] add music page
+- [x] add music page
 - [ ] make `rewrite` the main branch

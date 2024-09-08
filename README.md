@@ -12,7 +12,7 @@ $ python -m http.server 3000
 
 - [x] recreate current website
 - [x] add project screenshots
-- [ ] create new favicon
+- [x] create new favicon
 - [ ] double check `<head>` elements
 - [ ] style website
 - [ ] double check responsiveness

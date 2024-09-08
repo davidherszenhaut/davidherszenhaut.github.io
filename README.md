@@ -12,7 +12,7 @@ $ python -m http.server 3000
 
 - [ ] reset css
 - [ ] recreate current website
-- [ ] fix type in resume
+- [ ] fix typo in resume
 - [ ] add music page
 - [ ] add project screenshots
 - [ ] create new favicon

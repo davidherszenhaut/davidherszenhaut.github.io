@@ -18,7 +18,7 @@ export function createHeader() {
   headerLinks.appendChild(projectsLink);
 
   const resumeLink = document.createElement("a");
-  const resumeLinkText = document.createTextNode("Rsum");
+  const resumeLinkText = document.createTextNode("Résumé");
   resumeLink.appendChild(resumeLinkText);
   resumeLink.href = "/pages/resume.html";
   headerLinks.appendChild(resumeLink);

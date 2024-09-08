@@ -56,9 +56,10 @@ export function createResume() {
     ],
     "Tools": [
       "Git",
-    "Linux (Debian, Ubuntu, Arch)"
+    "Linux (Debian and Fedora based)",
+    "Perfoce"
     ],
-    "Fluent In": [
+    "Spoken Languages": [
       "English (Native)",
     "Portuguese (Conversational)",
     "Spanish (Beginner)"

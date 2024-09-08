@@ -4,10 +4,10 @@ export function createProjects() {
     {
       "name": "Pokédex",
       "stack": [
-        "react",
-        "typescript",
-        "tailwind",
-        "headless ui"
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Headless UI"
       ],
       "description": "A place where people can see details about their favorite Pokémon.",
       "links": {
@@ -22,9 +22,9 @@ export function createProjects() {
     {
       "name": "rollgraph",
       "stack": [
-        "react",
-        "d3.js",
-        "typescript"
+        "React",
+        "D3.js",
+        "TypeScript"
       ],
       "description": "A website to display data visualizations based on simulated dice rolls. The projects integrates GitHub Actions to check pull requests (using Jest, ESLint, and Prettier) and automatically deploy on merges.",
       "links": {
@@ -39,7 +39,7 @@ export function createProjects() {
     {
       "name": "Paintr",
       "stack": [
-        "java"
+        "Java"
       ],
       "description": "A simple drawing program built from the ground up using the Swing toolkit for Java. Functionality includes saving and loading multiple canvases, right click gestures via the $1 recognizer algorithm, snap-to-grid movement, and canvas switching animations.",
       "links": { },
@@ -50,9 +50,9 @@ export function createProjects() {
     {
       "name": "SmarTrek",
       "stack": [
-        "react",
-        "react-bootstrap",
-        "python"
+        "React",
+        "React-Bootstrap",
+        "Python"
       ],
       "description": "SmarTrek is a web application built for the Summer 2019 ITC Hackathon that helps you pick the safest route to your destination using data from the NYPD Traffic and Google Maps APIs. Supports several routes for each mode of transportation: walking, bicycling, driving, and public transit.",
       "links": {
@@ -65,8 +65,8 @@ export function createProjects() {
     {
       "name": "Dungeon Crawler",
       "stack": [
-        "unity",
-        "c#"
+        "Unity",
+        "C#"
       ],
       "description": "A basic action role-playing game where you take control of a knight fighing different monsters on your way to treasure.",
       "links": {
@@ -79,10 +79,10 @@ export function createProjects() {
     {
       "name": "OpenEval",
       "stack": [
-        "node.js",
-        "mongodb",
-        "bootstrap",
-        "handlebars"
+        "Node.js",
+        "MongoDB",
+        "Bootstrap",
+        "Handlebars"
       ],
       "description": "An anonymous survey web application that allows Georgia Tech professors to receive feedback on their teaching.",
       "links": {
@@ -95,7 +95,7 @@ export function createProjects() {
     {
       "name": "Possibility of Precipitation",
       "stack": [
-        "c"
+        "C"
       ],
       "description": "A Game Boy Advance game written in C that takes inspiration from the game 'Risk of Rain'.",
       "links": { },
@@ -106,10 +106,10 @@ export function createProjects() {
     {
       "name": "Dota Data",
       "stack": [
-        "d3.js",
-        "html5",
-        "css3",
-        "javascript"
+        "D3.js",
+        "HTML5",
+        "CSS",
+        "JavaScript"
       ],
       "description": "Data visualizations based on video game statistics.",
       "links": {
@@ -123,8 +123,8 @@ export function createProjects() {
     {
       "name": "PyBot",
       "stack": [
-        "python",
-        "sqlite"
+        "Python",
+        "SQLite"
       ],
       "description": "A chat bot for Discord built using the discord.py API wrapper.",
       "links": {},
@@ -135,7 +135,7 @@ export function createProjects() {
     {
       "name": "metal_concerts",
       "stack": [
-        "python"
+        "Python"
       ],
       "description": "A Python script to find interesting metal concerts near me.",
       "links": {
@@ -148,9 +148,9 @@ export function createProjects() {
     {
       "name": "Word Clock",
       "stack": [
-        "html5",
-        "css3",
-        "javascript"
+        "HTML5",
+        "CSS",
+        "JavaScript"
       ],
       "description": "A clock that tells time with words.",
       "links": {
@@ -165,9 +165,9 @@ export function createProjects() {
     {
       "name": "hex2rgb",
       "stack": [
-        "html5",
-        "css3",
-        "javascript"
+        "HTML5",
+        "CSS",
+        "JavaScript"
       ],
       "description": "A tool to convert a color code from hexadecimal to RGB.",
       "links": {
@@ -182,9 +182,9 @@ export function createProjects() {
     {
       "name": "hexclock",
       "stack": [
-        "html5",
-        "css3",
-        "javascript"
+        "HTML5",
+        "CSS",
+        "JavaScript"
       ],
       "description": "A hexadecimal clock that changes color with each passing second.",
       "links": {
@@ -199,9 +199,9 @@ export function createProjects() {
     {
       "name": "Flask Web Application",
       "stack": [
-        "html5",
-        "css3",
-        "python"
+        "HTML5",
+        "CSS",
+        "Python"
       ],
       "description": "A simple website built using the Flask framework.",
       "links": {

@@ -14,7 +14,10 @@ export function createProjects() {
         "code": "https://github.com/davidherszenhaut/pokedex",
         "demo": "https://davidherszenhaut.github.io/pokedex/"
       },
-      "img": "TODO"
+      "img": {
+        "src": "/images/pokedex.gif",
+        "alt": "A demonstration of Pokédex the project"
+      }
     },
     {
       "name": "rollgraph",
@@ -28,7 +31,10 @@ export function createProjects() {
         "code": "https://github.com/davidherszenhaut/rollgraph",
         "demo": "https://davidherszenhaut.github.io/rollgraph/"
       },
-      "img": "TODO"
+      "img": {
+        "src": "/images/rollgraph.gif",
+        "alt": "A demonstration of the rollgraph project"
+      }
     },
     {
       "name": "Paintr",
@@ -37,7 +43,9 @@ export function createProjects() {
       ],
       "description": "A simple drawing program built from the ground up using the Swing toolkit for Java. Functionality includes saving and loading multiple canvases, right click gestures via the $1 recognizer algorithm, snap-to-grid movement, and canvas switching animations.",
       "links": { },
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     },
     {
       "name": "SmarTrek",
@@ -50,7 +58,9 @@ export function createProjects() {
       "links": {
         "code": "https://github.com/ethanbin/SmarTrek/tree/master/smartrek-web-app"
       },
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     },
     {
       "name": "Dungeon Crawler",
@@ -62,7 +72,9 @@ export function createProjects() {
       "links": {
         "code": "https://github.com/CS-4455-Team-Yellow-Submarine/Dungeon-Crawler"
       },
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     },
     {
       "name": "OpenEval",
@@ -76,7 +88,9 @@ export function createProjects() {
       "links": {
         "code": "https://github.com/davidherszenhaut/OpenEvalWebApplication"
       },
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     },
     {
       "name": "Possibility of Precipitation",
@@ -85,7 +99,9 @@ export function createProjects() {
       ],
       "description": "A Game Boy Advance game written in C that takes inspiration from the game 'Risk of Rain'.",
       "links": { },
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     },
     {
       "name": "Dota Data",
@@ -100,7 +116,9 @@ export function createProjects() {
         "demo": "https://davidherszenhaut.github.io/dota-data/",
         "code": "https://github.com/davidherszenhaut/dota-data"
       },
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     },
     {
       "name": "PyBot",
@@ -110,7 +128,9 @@ export function createProjects() {
       ],
       "description": "A chat bot for Discord built using the discord.py API wrapper.",
       "links": {},
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     },
     {
       "name": "metal_concerts",
@@ -121,7 +141,9 @@ export function createProjects() {
       "links": {
         "code": "https://github.com/davidherszenhaut/metal_concerts"
       },
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     },
     {
       "name": "Word Clock",
@@ -135,7 +157,10 @@ export function createProjects() {
         "demo": "https://davidherszenhaut.github.io/wordclock/",
         "code": "https://github.com/davidherszenhaut/wordclock"
       },
-      "img": "TODO"
+      "img": {
+        "src": "/images/wordclock.png",
+        "alt": "A screenshot of the Word Clock project"
+      }
     },
     {
       "name": "hex2rgb",
@@ -149,7 +174,10 @@ export function createProjects() {
         "demo": "https://davidherszenhaut.github.io/hex2rgb/",
         "code": "https://github.com/davidherszenhaut/hex2rgb"
       },
-      "img": "TODO"
+      "img": {
+        "src": "/images/hex2rgb.png",
+        "alt": "A screenshot of the hex2rgb project"
+      }
     },
     {
       "name": "hexclock",
@@ -163,7 +191,10 @@ export function createProjects() {
         "demo": "https://davidherszenhaut.github.io/hexclock/",
         "code": "https://github.com/davidherszenhaut/hexclock"
       },
-      "img": "TODO"
+      "img": {
+        "src": "/images/hexclock.png",
+        "alt": "A screenshot of the hexclock project"
+      }
     },
     {
       "name": "Flask Web Application",
@@ -176,7 +207,9 @@ export function createProjects() {
       "links": {
         "code": "https://github.com/davidherszenhaut/hexclock"
       },
-      "img": "TODO"
+      "img": {
+        "alt": "TODO"
+      }
     }
   ];
 
@@ -205,6 +238,15 @@ function createProject(project) {
   // description
   const projectDescription = document.createTextNode(project.description);
   projectDiv.appendChild(projectDescription);
+
+  // screenshot
+  if (project.img.alt !== "TODO") {
+    const projectImage = document.createElement("img");
+    projectImage.src = project.img.src;
+    projectImage.alt = project.img.alt;
+    projectDiv.appendChild(projectImage);
+  }
+
   document.body.appendChild(projectDiv);
 }
 

@@ -10,15 +10,13 @@ $ python -m http.server 3000
 
 # TODO
 
-- [ ] reset css
-- [ ] recreate current website
-- [ ] fix typo in resume
-- [ ] add music page
-- [ ] add project screenshots
+- [x] recreate current website
+- [x] add project screenshots
 - [ ] create new favicon
 - [ ] double check `<head>` elements
 - [ ] style website
 - [ ] double check responsiveness
 - [ ] properly capitalize tech stack names
 - [ ] add light/dark toggle
+- [ ] add music page
 - [ ] make `rewrite` the main branch

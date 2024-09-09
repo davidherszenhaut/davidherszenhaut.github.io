@@ -20,14 +20,17 @@ header {
   border-bottom: 1px solid black;
 }
 
-header * {
+.header-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   flex: 1 1 0px;
 }
 
 #header-links {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 footer {

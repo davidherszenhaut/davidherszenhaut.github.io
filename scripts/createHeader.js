@@ -2,15 +2,19 @@ export function createHeader() {
   const header = document.createElement("header");
 
   // home button
+  const homeButtonContainer = document.createElement("div")
+  homeButtonContainer.classList.add("header-item");
   const homeButton = document.createElement("a");
-  const homeButtonText = document.createTextNode("David Herszenhaut");
+  const homeButtonText = document.createTextNode("Home");
   homeButton.appendChild(homeButtonText);
   homeButton.href = "/";
-  header.appendChild(homeButton);
+  homeButtonContainer.appendChild(homeButton);
+  header.appendChild(homeButtonContainer);
 
   // navigation links
   const headerLinks = document.createElement("div");
   headerLinks.id = "header-links";
+  headerLinks.classList.add("header-item");
 
   const projectsLink = document.createElement("a");
   const projectsLinkText = document.createTextNode("Projects");
@@ -33,9 +37,12 @@ export function createHeader() {
   header.appendChild(headerLinks);
 
   // theme switcher
+  const toggleContainer = document.createElement("div");
+  toggleContainer.classList.add("header-item");
   const toggle = document.createElement("input");
   toggle.type = "checkbox";
-  header.appendChild(toggle);
+  toggleContainer.appendChild(toggle);
+  header.appendChild(toggleContainer);
 
   document.body.insertBefore(header, document.body.firstChild);
 }

@@ -5,6 +5,10 @@ main {
   padding: 0 50px;
 }
 
+#projects {
+  width: 70%;
+}
+
 .project {
   border: 1px solid #8fbcbb;
   border-radius: 10px;

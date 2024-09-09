@@ -213,18 +213,33 @@ export function createProjects() {
     }
   ];
 
-
-  projects.forEach((project) => createProject(project));
+  const main = document.getElementsByTagName("main")[0];
+  const projectsContainer = document.createElement("div");
+  projectsContainer.id = "projects";
+  projects.forEach((project) => {
+    const projectDiv = createProject(project);
+    projectsContainer.appendChild(projectDiv);
+  });
+  main.appendChild(projectsContainer);
 }
 
 function createProject(project) {
   // console.log(project);
   const projectDiv = document.createElement("div");
+  projectDiv.classList.add("project");
   
   // name
-  const projectName = document.createTextNode(project.name);
+  const projectName = document.createElement("h2");
+  const projectNameText = document.createTextNode(project.name);
+  projectName.appendChild(projectNameText);
   projectDiv.appendChild(projectName);
   
+  // description
+  const projectParagraph = document.createElement("h3");
+  const projectDescription = document.createTextNode(project.description);
+  projectParagraph.appendChild(projectDescription);
+  projectDiv.appendChild(projectParagraph);
+
   // links
   if (Object.keys(project.links).length !== 0) {
     const projectLinks = createLinks(project.links);
@@ -235,10 +250,6 @@ function createProject(project) {
   const stack = createStack(project.stack);
   projectDiv.appendChild(stack);
 
-  // description
-  const projectDescription = document.createTextNode(project.description);
-  projectDiv.appendChild(projectDescription);
-
   // screenshot
   if (project.img.alt !== "TODO") {
     const projectImage = document.createElement("img");
@@ -247,34 +258,38 @@ function createProject(project) {
     projectDiv.appendChild(projectImage);
   }
 
-  document.body.appendChild(projectDiv);
+  return projectDiv;
 }
 
 function createLinks(links) {
   const linksDiv = document.createElement("div");
 
   if ("demo" in links) {
+    const demoParagraph = document.createElement("p");
     const demoLink = document.createElement("a");
     const demoLinkText = document.createTextNode("demo");
     demoLink.href = links["demo"];
     demoLink.appendChild(demoLinkText);
-    linksDiv.appendChild(demoLink);
+    demoParagraph.appendChild(demoLink);
+    linksDiv.appendChild(demoParagraph);
   }
 
   if ("code" in links) {
+    const codeParagraph = document.createElement("p");
     const codeLink = document.createElement("a");
     const codeLinkText = document.createTextNode("code");
     codeLink.href = links["code"];
     codeLink.appendChild(codeLinkText);
-    linksDiv.appendChild(codeLink);
+    codeParagraph.appendChild(codeLink);
+    linksDiv.appendChild(codeParagraph);
   }
 
   return linksDiv;
 }
 
 function createStack(stack) {
-  const stackDiv = document.createElement("div");
-  const stackText = document.createTextNode(stack.join(", "));
-  stackDiv.appendChild(stackText);
-  return stackDiv;
+  const stackParagraph = document.createElement("p");
+  const stackText = document.createTextNode("[ " + stack.join(", ") + " ]");
+  stackParagraph.appendChild(stackText);
+  return stackParagraph;
 }

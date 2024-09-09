@@ -252,10 +252,13 @@ function createProject(project) {
 
   // screenshot
   if (project.img.alt !== "TODO") {
+    const imageContainer = document.createElement("div");
+    imageContainer.classList.add("image-container");
     const projectImage = document.createElement("img");
     projectImage.src = project.img.src;
     projectImage.alt = project.img.alt;
-    projectDiv.appendChild(projectImage);
+    imageContainer.appendChild(projectImage);
+    projectDiv.appendChild(imageContainer);
   }
 
   return projectDiv;

@@ -15,7 +15,7 @@ $ python -m http.server 3000
 - [x] create new favicon
 - [x] double check `<head>` elements
 - [ ] style website
-  - [ ] move generated `<div>`s to `<main>`
+  - [x] move generated `<div>`s to `<main>`
   - [ ] move `<footer>` to bottom in `index.html`
 - [ ] double check responsiveness
 - [x] properly capitalize tech stack names

@@ -39,7 +39,23 @@ export function createResume() {
   }
   ];
 
-  experience.forEach((job) => createJob(job));
+
+  const main = document.getElementsByTagName("main")[0];
+  const resumeContainer = document.createElement("div");
+  resumeContainer.id = "resume";
+
+  const jobs = document.createElement("div");
+  const jobsTitle = document.createElement("h2");
+  const jobsTitleText = document.createTextNode("Experience");
+  jobsTitle.appendChild(jobsTitleText);
+  jobs.appendChild(jobsTitle);
+  experience.forEach((job) => {
+    const jobInstance = createJob(job);
+    jobs.appendChild(jobInstance);
+  });
+  const jobsHR = document.createElement("hr");
+  jobs.appendChild(jobsHR);
+  resumeContainer.appendChild(jobs);
 
   const skills = {
     "Programming Languages": [
@@ -66,10 +82,18 @@ export function createResume() {
     ]
   };
 
+  const skillsContainer = document.createElement("div");
+  const skillsTitle = document.createElement("h2");
+  const skillsTitleText = document.createTextNode("Skills");
+  skillsTitle.appendChild(skillsTitleText);
+  skillsContainer.appendChild(skillsTitle);
   for (const [skillType, skillList] of Object.entries(skills)) {
     const skillLine = createSkill(skillType, skillList);
-    document.body.appendChild(skillLine);
+    skillsContainer.appendChild(skillLine);
   }
+  const skillsHR = document.createElement("hr");
+  skillsContainer.appendChild(skillsHR);
+  resumeContainer.appendChild(skillsContainer);
 
   const education = [
   {
@@ -82,7 +106,18 @@ export function createResume() {
   }
   ];
 
-  education.forEach((school) => createEducation(school));
+  const eduContainer = document.createElement("div");
+  const eduTitle = document.createElement("h2");
+  const eduTitleText = document.createTextNode("Education");
+  eduTitle.appendChild(eduTitleText);
+  eduContainer.appendChild(eduTitle);
+  education.forEach((school) => {
+    const edu = createEducation(school);
+    eduContainer.appendChild(edu);
+  });
+  const eduHR = document.createElement("hr");
+  eduContainer.appendChild(eduHR);
+  resumeContainer.appendChild(eduContainer);
 
   const extracurriculars = [
   {
@@ -107,7 +142,18 @@ export function createResume() {
   }
   ];
 
-  extracurriculars.forEach((extra) => createExtra(extra));
+  const extrasContainer = document.createElement("div");
+  const extrasTitle = document.createElement("h2");
+  const extrasTitleText = document.createTextNode("Extracurriculars");
+  extrasTitle.appendChild(extrasTitleText);
+  extrasContainer.appendChild(extrasTitle);
+  extracurriculars.forEach((extra) => {
+    const extraInstance = createExtra(extra)
+    extrasContainer.appendChild(extraInstance);
+  });
+  const extrasHR = document.createElement("hr");
+  extrasContainer.appendChild(extrasHR);
+  resumeContainer.appendChild(extrasContainer);
 
   const coursework = {
     "cs": [
@@ -144,21 +190,36 @@ export function createResume() {
     ]
   };
 
+  const coursesContainer = document.createElement("div");
+  const coursesTitle = document.createElement("h2");
+  const coursesTitleText = document.createTextNode("Relevant Coursework");
+  coursesTitle.appendChild(coursesTitleText);
+  coursesContainer.appendChild(coursesTitle);
   for (const [type, list] of Object.entries(coursework)) {
     const courses = createCourses(type, list);
-    document.body.appendChild(courses);
+    coursesContainer.appendChild(courses);
   }
+  resumeContainer.appendChild(coursesContainer);
+
+  main.appendChild(resumeContainer);
 }
 
 function createJob(job) {
   const jobDiv = document.createElement("div");
+  const jobHeadingDiv = document.createElement("div");
+  jobHeadingDiv.classList.add("job-heading");
+  const jobNameP = document.createElement("p");
   const jobName = document.createTextNode(job.title);
-  jobDiv.appendChild(jobName);
+  jobNameP.appendChild(jobName);
+  jobHeadingDiv.appendChild(jobNameP);
+  const jobDatesP = document.createElement("p");
   const jobDates = document.createTextNode(job.date);
-  jobDiv.appendChild(jobDates);
+  jobDatesP.appendChild(jobDates);
+  jobHeadingDiv.appendChild(jobDatesP);
+  jobDiv.appendChild(jobHeadingDiv);
   const jobInfo = createJobInfo(job.text);
   jobDiv.appendChild(jobInfo);
-  document.body.appendChild(jobDiv);
+  return jobDiv;
 }
 
 function createJobInfo(jobText) {
@@ -173,7 +234,7 @@ function createJobInfo(jobText) {
 }
 
 function createSkill(type, list) {
-  const skillLine = document.createElement("div");
+  const skillLine = document.createElement("p");
   const skillLineText = document.createTextNode(type + ": " + list.join(", "));
   skillLine.appendChild(skillLineText);
   return skillLine;
@@ -187,7 +248,7 @@ function createEducation(school) {
   schoolDiv.appendChild(schoolDate);
   const schoolInfo = createSchoolInfo(school.text);
   schoolDiv.appendChild(schoolInfo);
-  document.body.appendChild(schoolDiv);
+  return schoolDiv;
 }
 
 function createSchoolInfo(schoolText) {
@@ -203,11 +264,16 @@ function createSchoolInfo(schoolText) {
 
 function createExtra(extra) {
   const extraDiv = document.createElement("div");
+  extraDiv.classList.add("extra-heading");
+  const nameP = document.createElement("p");
   const name = document.createTextNode(extra.name);
-  extraDiv.appendChild(name);
+  nameP.appendChild(name);
+  extraDiv.appendChild(nameP);
+  const dateP = document.createElement("p");
   const date = document.createTextNode(extra.date);
-  extraDiv.appendChild(date);
-  document.body.appendChild(extraDiv);
+  dateP.appendChild(date);
+  extraDiv.appendChild(dateP);
+  return extraDiv;
 }
 
 function createCourses(type, list) {
@@ -219,6 +285,7 @@ function createCourses(type, list) {
   courseDiv.appendChild(typeDiv);
 
   const listDiv = document.createElement("ul");
+  list.sort();
   list.forEach((course) => {
     const courseLineItem = document.createElement("li");
     const courseLineText = document.createTextNode(course);

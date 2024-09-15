@@ -42,7 +42,7 @@ export function createHeader() {
   const toggle = document.createElement("input");
   toggle.type = "checkbox";
   toggle.id = "theme-checkbox";
-  let themeText;
+  toggle.setAttribute("aria-labelledby", "toggle-text");
   const toggleLabel = document.createElement("label");
   toggleLabel.setAttribute("for", "theme-switcher");
   toggleContainer.appendChild(toggle);

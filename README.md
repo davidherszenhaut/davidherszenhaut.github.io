@@ -7,18 +7,3 @@ $ git clone https://github.com/davidherszenhaut/davidherszenhaut.github.io.git
 $ cd davidherszenhaut.github.io
 $ python -m http.server 3000
 ```
-
-# TODO
-
-- [x] recreate current website
-- [x] add project screenshots
-- [x] create new favicon
-- [x] double check `<head>` elements
-- [ ] style website
-  - [x] move generated `<div>`s to `<main>`
-  - [ ] move `<footer>` to bottom in `index.html`
-- [ ] double check responsiveness
-- [x] properly capitalize tech stack names
-- [x] add light/dark toggle
-- [x] add music page
-- [ ] make `rewrite` the main branch

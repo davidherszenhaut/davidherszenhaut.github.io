@@ -27,3 +27,13 @@ img {
   max-width: 1200px;
   border-radius: 10px;
 }
+
+@media (width < 1000px) {
+  main {
+    padding: 0 10px;
+  }
+
+  #projects {
+    width: 90%;
+  }
+}

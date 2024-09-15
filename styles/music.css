@@ -14,3 +14,13 @@ main {
 iframe {
   padding: 0 10px;
 }
+
+@media (width < 1000px) {
+  #embeds {
+    flex-direction: column-reverse;
+  }
+
+  iframe {
+    max-width: 95vw;
+  }
+}

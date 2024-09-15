@@ -9,3 +9,13 @@ main {
   flex-direction: row;
   justify-content: space-between;
 }
+
+@media (width < 1000px) {
+  main {
+    padding: 0 10px;
+  }
+
+  .job-heading, .extra-heading {
+    flex-direction: column;
+  }
+}

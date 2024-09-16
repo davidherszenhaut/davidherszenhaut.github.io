@@ -21,10 +21,17 @@ section {
 @media (width < 1000px) {
   main {
     padding: 0 10%;
+    margin-bottom: 15%;
   }
 
   #about-me {
     flex-direction: column;
+  }
+}
+
+@media (width < 400px) {
+  main {
+    margin-bottom: 25%;
   }
 }
 

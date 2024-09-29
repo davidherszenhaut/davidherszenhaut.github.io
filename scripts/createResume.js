@@ -73,7 +73,7 @@ export function createResume() {
     "Tools": [
       "Git",
     "Linux (Debian and Fedora based)",
-    "Perfoce"
+    "Perforce"
     ],
     "Spoken Languages": [
       "English (Native)",

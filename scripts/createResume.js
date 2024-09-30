@@ -211,6 +211,7 @@ function createJob(job) {
   const jobNameP = document.createElement("p");
   const jobName = document.createTextNode(job.title);
   jobNameP.appendChild(jobName);
+  jobNameP.classList.add("job-name");
   jobHeadingDiv.appendChild(jobNameP);
   const jobDatesP = document.createElement("p");
   const jobDates = document.createTextNode(job.date);
@@ -268,6 +269,7 @@ function createExtra(extra) {
   const nameP = document.createElement("p");
   const name = document.createTextNode(extra.name);
   nameP.appendChild(name);
+  nameP.classList.add("extra-name");
   extraDiv.appendChild(nameP);
   const dateP = document.createElement("p");
   const date = document.createTextNode(extra.date);

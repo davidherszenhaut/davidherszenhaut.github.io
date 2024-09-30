@@ -10,6 +10,10 @@ main {
   justify-content: space-between;
 }
 
+p.job-name, p.extra-name {
+  font-weight: bold;
+}
+
 @media (width < 1000px) {
   main {
     padding: 0 10px;

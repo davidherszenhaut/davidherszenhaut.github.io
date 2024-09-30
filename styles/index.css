@@ -21,11 +21,18 @@ section {
 @media (width < 1000px) {
   main {
     padding: 0 10%;
-    margin-bottom: 15%;
+    margin-bottom: 25%;
+    min-height: 1000px;
   }
 
   #about-me {
     flex-direction: column;
+  }
+}
+
+@media (height < 800px) {
+  main {
+    min-height: 1000px;
   }
 }
 

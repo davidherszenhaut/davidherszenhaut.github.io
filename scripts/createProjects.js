@@ -9,7 +9,7 @@ export function createProjects() {
         "Tailwind CSS",
         "Headless UI"
       ],
-      "description": "A place where people can see details about their favorite Pokémon.",
+      "description": "A front end for PokéAPI where people can see details about their favorite Pokémon.",
       "links": {
         "code": "https://github.com/davidherszenhaut/pokedex",
         "demo": "https://davidherszenhaut.github.io/pokedex/"
@@ -41,7 +41,7 @@ export function createProjects() {
       "stack": [
         "Java"
       ],
-      "description": "A simple drawing program built from the ground up using the Swing toolkit for Java. Functionality includes saving and loading multiple canvases, right click gestures via the $1 recognizer algorithm, snap-to-grid movement, and canvas switching animations.",
+      "description": "A drawing program built from the ground up using the Swing toolkit for Java. Functionality includes saving and loading multiple canvases, right click gestures via the $1 recognizer algorithm, snap-to-grid movement, and canvas switching animations.",
       "links": { },
       "img": {
         "alt": "TODO"
@@ -68,7 +68,7 @@ export function createProjects() {
         "Unity",
         "C#"
       ],
-      "description": "A basic action role-playing game where you take control of a knight fighing different monsters on your way to treasure.",
+      "description": "An action role-playing game where you take control of a knight fighing different monsters on your way to treasure.",
       "links": {
         "code": "https://github.com/CS-4455-Team-Yellow-Submarine/Dungeon-Crawler"
       },
@@ -116,6 +116,19 @@ export function createProjects() {
       "links": {
         "demo": "https://davidherszenhaut.github.io/dota-data/",
         "code": "https://github.com/davidherszenhaut/dota-data"
+      },
+      "img": {
+        "alt": "TODO"
+      }
+    },
+    {
+      "name": "pypass",
+      "stack": [
+        "Python"
+      ],
+      "description": "Generate passwords locally with Python's secrets module.",
+      "links": {
+        "code": "https://github.com/davidherszenhaut/pypass"
       },
       "img": {
         "alt": "TODO"
@@ -225,7 +238,6 @@ export function createProjects() {
 }
 
 function createProject(project) {
-  // console.log(project);
   const projectDiv = document.createElement("div");
   projectDiv.classList.add("project");
   

@@ -49,6 +49,18 @@ export function createResume() {
   const resumeContainer = document.createElement("div");
   resumeContainer.id = "resume";
 
+  const pdfButtonContainer = document.createElement("button-container");
+  pdfButtonContainer.id = "pdf-button-container";
+  const pdfButton = document.createElement("button");
+  pdfButton.addEventListener("click", function() {
+    window.open("/images/David Herszenhaut - Resume.pdf");
+  })
+  const pdfButtonText = document.createTextNode("View as a PDF");
+  pdfButton.appendChild(pdfButtonText);
+  pdfButtonContainer.appendChild(pdfButton);
+
+  resumeContainer.appendChild(pdfButtonContainer);
+
   const jobs = document.createElement("div");
   const jobsTitle = document.createElement("h2");
   const jobsTitleText = document.createTextNode("Experience");

@@ -105,7 +105,7 @@ export function createResume() {
   const education = [
     {
       "name": "Georgia Institute of Technology",
-      "date": "August 2014–December 2019",
+      "date": "December 2019",
       "text": [
         "Bachelor of Science in Computer Science",
         "3.74 Major GPA"
@@ -163,7 +163,7 @@ export function createResume() {
   resumeContainer.appendChild(extrasContainer);
 
   const coursework = {
-    "cs": [
+    "Computer Science": [
       "CS 1371 - Computing for Engineers",
       "CS 2050 - Introduction to Discrete Mathematics",
       "CS 1331 - Introduction to Object Oriented Programming",
@@ -182,7 +182,7 @@ export function createResume() {
       "CS 2316 - Data Input and Manipulation",
       "CS 1301 - Introduction to Computing"
     ],
-    "math": [
+    "Mathematics": [
       "MATH 1552 - Integral Calculus",
       "MATH 1501 - Calculus I",
       "MATH 1554 - Linear Algebra",
@@ -190,7 +190,7 @@ export function createResume() {
       "MATH 3012 - Applied Combinatorics",
       "MATH 3670 - Statistics and Applications"
     ],
-    "psyc": [
+    "Psychology": [
       "PSYC 1101 - General Psychology",
       "PSYC 2015 - Research Methods",
       "PSYC 2210 - Social Psychology"
@@ -302,7 +302,7 @@ function createCourses(type, list) {
 
   const typeDiv = document.createElement("div");
   typeDiv.classList.add("course-type")
-  const typeText = document.createTextNode(type.toUpperCase());
+  const typeText = document.createTextNode(type);
   typeDiv.appendChild(typeText);
   courseDiv.appendChild(typeDiv);
 

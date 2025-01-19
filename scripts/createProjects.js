@@ -73,7 +73,8 @@ export function createProjects() {
         "code": "https://github.com/CS-4455-Team-Yellow-Submarine/Dungeon-Crawler"
       },
       "img": {
-        "alt": "TODO"
+        "src": "https://raw.githubusercontent.com/CS-4455-Team-Yellow-Submarine/Dungeon-Crawler/715a1d51698fc66f78743aba17c40315dd8c29df/Assets/Images/DungeonCrawler.png",
+        "alt": "The splash screen of the Dungeon Crawler game"
       }
     },
     {

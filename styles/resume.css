@@ -16,6 +16,10 @@ button {
   padding: 10px 50px;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .job-heading, .extra-heading, .school-heading {
   display: flex;
   flex-direction: row;

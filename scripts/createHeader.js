@@ -19,20 +19,26 @@ export function createHeader() {
   const projectsLink = document.createElement("a");
   const projectsLinkText = document.createTextNode("Projects");
   projectsLink.appendChild(projectsLinkText);
-  projectsLink.href = "/pages/projects.html";
+  projectsLink.href = "/pages/projects";
   headerLinks.appendChild(projectsLink);
 
   const resumeLink = document.createElement("a");
   const resumeLinkText = document.createTextNode("Résumé");
   resumeLink.appendChild(resumeLinkText);
-  resumeLink.href = "/pages/resume.html";
+  resumeLink.href = "/pages/resume";
   headerLinks.appendChild(resumeLink);
 
   const musicLink = document.createElement("a");
   const musicLinkText = document.createTextNode("Music");
   musicLink.appendChild(musicLinkText);
-  musicLink.href = "/pages/music.html";
+  musicLink.href = "/pages/music";
   headerLinks.appendChild(musicLink);
+
+  const blogLink = document.createElement("a");
+  const blogLinkText = document.createTextNode("Blog");
+  blogLink.appendChild(blogLinkText);
+  blogLink.href = "/pages/blog";
+  headerLinks.appendChild(blogLink);
 
   header.appendChild(headerLinks);
 

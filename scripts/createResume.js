@@ -53,7 +53,7 @@ export function createResume() {
   pdfButtonContainer.id = "pdf-button-container";
   const pdfButton = document.createElement("button");
   pdfButton.addEventListener("click", function() {
-    window.open("/images/David Herszenhaut - Resume.pdf");
+    window.open("/assets/resume/David Herszenhaut - Resume.pdf");
   })
   const pdfButtonText = document.createTextNode("View as a PDF");
   pdfButton.appendChild(pdfButtonText);

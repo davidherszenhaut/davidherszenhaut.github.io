@@ -5,6 +5,9 @@ body {
   background-color: var(--body-background);
   color: var(--body-color);
   height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 :root {
@@ -30,7 +33,7 @@ header {
   flex-direction: row;
   justify-content: space-around;
   background: var(--header-footer-background);
-  height: 10vh;
+  max-height: 10vh;
   border-bottom: 1px solid black;
   position: sticky;
   top: 0;
@@ -53,9 +56,9 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  bottom: 0;
   background: var(--header-footer-background);
   border-top: 1px solid black;
+  max-height: 10vh;
 }
 
 @media (width < 1000px) {

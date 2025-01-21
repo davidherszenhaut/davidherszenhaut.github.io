@@ -1,0 +1,19 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 75vw;
+    align-self: center;
+}
+
+img {
+    max-width: 80vw;
+}
+
+#blog-heading {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

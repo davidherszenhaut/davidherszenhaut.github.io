@@ -2,12 +2,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 75vw;
   align-self: center;
-}
-
-section {
-  max-width: 75vw;
 }
 
 img {

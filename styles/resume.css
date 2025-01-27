@@ -4,10 +4,6 @@ main, #pdf-button-container {
   flex-direction: column;
 }
 
-#resume {
-  max-width: 50vw;
-}
-
 button {
   border: 1px solid var(--body-color);
   border-radius: 5px;

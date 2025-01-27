@@ -15,7 +15,7 @@ export function createProjects() {
         "demo": "https://davidherszenhaut.github.io/pokedex/"
       },
       "img": {
-        "src": "/images/pokedex.gif",
+        "src": "/assets/projects/pokedex.gif",
         "alt": "A demonstration of Pokédex the project"
       }
     },
@@ -32,7 +32,7 @@ export function createProjects() {
         "demo": "https://davidherszenhaut.github.io/rollgraph/"
       },
       "img": {
-        "src": "/images/rollgraph.gif",
+        "src": "/assets/projects/rollgraph.gif",
         "alt": "A demonstration of the rollgraph project"
       }
     },
@@ -160,6 +160,23 @@ export function createProjects() {
       }
     },
     {
+      "name": "Color Clicker",
+      "stack": [
+        "HTML5",
+        "CSS",
+        "JavaScript"
+      ],
+      "description": "A colorful incremental game.",
+      "links": {
+        "demo": "https://davidherszenhaut.github.io/color-clicker/",
+        "code": "https://github.com/davidherszenhaut/color-clicker"
+      },
+      "img": {
+        "src": "/assets/projects/color-clicker.png",
+        "alt": "A screenshot of the Color Clicker project"
+      }
+    },
+    {
       "name": "Word Clock",
       "stack": [
         "HTML5",
@@ -172,7 +189,7 @@ export function createProjects() {
         "code": "https://github.com/davidherszenhaut/wordclock"
       },
       "img": {
-        "src": "/images/wordclock.png",
+        "src": "/assets/projects/wordclock.png",
         "alt": "A screenshot of the Word Clock project"
       }
     },
@@ -189,7 +206,7 @@ export function createProjects() {
         "code": "https://github.com/davidherszenhaut/hex2rgb"
       },
       "img": {
-        "src": "/images/hex2rgb.png",
+        "src": "/assets/projects/hex2rgb.png",
         "alt": "A screenshot of the hex2rgb project"
       }
     },
@@ -206,7 +223,7 @@ export function createProjects() {
         "code": "https://github.com/davidherszenhaut/hexclock"
       },
       "img": {
-        "src": "/images/hexclock.png",
+        "src": "/assets/projects/hexclock.png",
         "alt": "A screenshot of the hexclock project"
       }
     },

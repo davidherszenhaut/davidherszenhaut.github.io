@@ -16,23 +16,34 @@ export function createHeader() {
   headerLinks.id = "header-links";
   headerLinks.classList.add("header-item");
 
+  const pipe = document.createTextNode("|");
+
   const projectsLink = document.createElement("a");
   const projectsLinkText = document.createTextNode("Projects");
   projectsLink.appendChild(projectsLinkText);
-  projectsLink.href = "/pages/projects.html";
+  projectsLink.href = "/pages/projects";
   headerLinks.appendChild(projectsLink);
+  headerLinks.appendChild(pipe.cloneNode(true));
 
   const resumeLink = document.createElement("a");
   const resumeLinkText = document.createTextNode("Résumé");
   resumeLink.appendChild(resumeLinkText);
-  resumeLink.href = "/pages/resume.html";
+  resumeLink.href = "/pages/resume";
   headerLinks.appendChild(resumeLink);
+  headerLinks.appendChild(pipe.cloneNode(true));
 
   const musicLink = document.createElement("a");
   const musicLinkText = document.createTextNode("Music");
   musicLink.appendChild(musicLinkText);
-  musicLink.href = "/pages/music.html";
+  musicLink.href = "/pages/music";
   headerLinks.appendChild(musicLink);
+  headerLinks.appendChild(pipe.cloneNode(true));
+
+  const blogLink = document.createElement("a");
+  const blogLinkText = document.createTextNode("Blog");
+  blogLink.appendChild(blogLinkText);
+  blogLink.href = "/pages/blog";
+  headerLinks.appendChild(blogLink);
 
   header.appendChild(headerLinks);
 

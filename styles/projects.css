@@ -10,7 +10,7 @@ main {
 }
 
 .project {
-  border: 1px solid #8fbcbb;
+  border: 1px solid var(--anchor-color);
   border-radius: 10px;
   padding: 10px 30px;
   margin-bottom: 20px;

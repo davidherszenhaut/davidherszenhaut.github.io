@@ -4,10 +4,10 @@ body {
   font-family: sans-serif;
   background-color: var(--body-background);
   color: var(--body-color);
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
 }
 
 :root {
@@ -33,10 +33,11 @@ header {
   flex-direction: row;
   justify-content: space-around;
   background: var(--header-footer-background);
-  max-height: 10vh;
+  height: 8vh;
   border-bottom: 1px solid black;
   position: sticky;
   top: 0;
+  width: 100%;
 }
 
 .header-item {
@@ -52,13 +53,20 @@ header {
   justify-content: space-around;
 }
 
+main {
+  min-height: 83.5vh;
+  max-width: 70vw;
+}
+
 footer {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  align-items: center;
   background: var(--header-footer-background);
   border-top: 1px solid black;
-  max-height: 10vh;
+  height: 8vh;
+  width: 100%;
 }
 
 @media (width < 1000px) {

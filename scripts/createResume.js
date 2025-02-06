@@ -5,7 +5,7 @@ export function createResume() {
       "title": "Automated Logic, Software Engineer",
       "date": "September 2021–Present",
       "text": [
-        "Reduced system startup time by over 20 seconds by developing a custom Java annotation processor",
+        "Developed a custom Java annotation processor that reduced system startup time by over 20 seconds",
         "Worked with product managers to draft and complete user stories for a BACnet-based HVAC system",
         "Designed CI pipeline to analyze codebase for potential defects and security vulnerabilities using Coverity",
         "Created a file encryption system to securely store customer license files and prevent unauthorized editing",
@@ -17,7 +17,7 @@ export function createResume() {
       "title": "Zuora, Software Engineer",
       "date": "March 2020–September 2021",
       "text": [
-        "Reduced interchange fees by over 1% per transaction by implementing Level 3 credit card payment processing for payment gateways",
+        "Implemented Level 3 credit card payment processing for payment gateways which reduced interchange fees by over 1% per transaction",
         "Built integrations for alternative payment methods to be used by payment service providers (such as SEPA for Stripe and payment tokens for Adyen) using Apache Velocity and REST APIs",
         "Designed automated unit test plans with over 85% code coverage to catch errors in development and prevent regressions in production",
         "Published customer-facing technical specification documents with the support of product management",

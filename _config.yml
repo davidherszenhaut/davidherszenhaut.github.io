@@ -1,0 +1,38 @@
+remote_theme: academicpages/academicpages.github.io
+
+locale: "en-US"
+title: "David Herszenhaut"
+title_separator: "|"
+name: &name "David Herszenhaut"
+description: &description "My personal website!"
+url: "https://davidherszenhaut.github.io/"
+baseurl: ""
+repository: "https://github.com/davidherszenhaut/davidherszenhaut.github.io"
+
+author:
+  avatar: "self-portrait.png"
+  name: "David Herszenhaut"
+  pronouns: "he/him"
+  bio: "I like making stuff sometimes."
+  location: "Atlanta, Georgia"
+  employer: "Automated Logic"
+  email: "davidherszenhaut.business@gmail.com"
+
+  github: "davidherszenhaut"
+
+  linkedin: "davidherszenhaut"
+  youtube: "OvertakeMusicChannel"
+
+breadcrumbs: true
+
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - .github
+  - LICENSE
+  - README
+keep_files:
+  - .git
+encoding: "utf-8"

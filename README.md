@@ -1,9 +1,5 @@
-# Running Locally
+# My personal website!
 
-Clone the directory, go into it, and run a python server. The website will be available on the network at the server's IP address and port.
+## https://davidherszenhaut.github.io/
 
-```shell
-$ git clone https://github.com/davidherszenhaut/davidherszenhaut.github.io.git
-$ cd davidherszenhaut.github.io
-$ python -m http.server 3000
-```
+## built with [academic pages](https://github.com/academicpages/academicpages.github.io)

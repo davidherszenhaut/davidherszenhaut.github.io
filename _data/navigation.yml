@@ -3,7 +3,7 @@ main:
     url:  /portfolio/
 
   - title: "Résumé"
-    url: /résumé/
+    url: /resume/
 
   - title: "Music"
     url: /music/

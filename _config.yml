@@ -10,7 +10,7 @@ baseurl: ""
 repository: "https://github.com/davidherszenhaut/davidherszenhaut.github.io"
 
 author:
-  avatar: "self-portrait.png"
+  avatar: "profile.jpg"
   name: "David Herszenhaut"
   pronouns: "he/him"
   bio: "I like making stuff sometimes."

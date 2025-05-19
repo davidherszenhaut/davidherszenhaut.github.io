@@ -15,3 +15,4 @@ Feel free to check out some of what I've done on this page or at these links:
 - [LinkedIn](https://www.linkedin.com/in/davidherszenhaut/)
 - [YouTube](https://www.youtube.com/@OvertakeMusicChannel)
 - [Bandcamp](https://overtakemusicchannel.bandcamp.com/)
+- [Notes](https://davidherszenhaut.github.io/notes/)

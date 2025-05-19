@@ -1,0 +1,10 @@
+---
+title: "hexclock"
+excerpt: "A hexadecimal clock that changes color with each passing second. <br/> <img src='/images/portfolio/hexclock.png' alt='A screenshot of the hexclock project'>"
+collection: portfolio
+---
+
+This project was built using HTML5, CSS, and JavaScript.
+
+- [Demo](https://davidherszenhaut.github.io/hexclock/)
+- [Code](https://github.com/davidherszenhaut/hexclock)

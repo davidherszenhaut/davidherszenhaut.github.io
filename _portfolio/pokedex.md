@@ -1,0 +1,10 @@
+---
+title: "Pokédex"
+excerpt: "A front end for PokéAPI where people can see details about their favorite Pokémon. <br/> <img src='images/portfolio/pokedex.gif' alt='A demonstration of Pokédex the project'>"
+collection: portfolio
+---
+
+This project was built using React, TypeScript, Tailwind CSS, and Headless UI.
+
+- [Demo](https://davidherszenhaut.github.io/pokedex/)
+- [Code](https://github.com/davidherszenhaut/pokedex)

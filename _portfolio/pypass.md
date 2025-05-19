@@ -1,0 +1,9 @@
+---
+title: "pypass"
+excerpt: "Generate passwords locally with Python's secrets module."
+collection: portfolio
+---
+
+This project was built using Python.
+
+- [Code](https://github.com/davidherszenhaut/pypass)

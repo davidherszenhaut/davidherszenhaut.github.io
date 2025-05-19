@@ -1,8 +1,8 @@
 main:
-  - title: "Projects"
-    url:  /projects/
+  - title: "Portfolio""
+    url:  /portfolio/
 
-  - title: "Resume"
+  - title: "Résumé"
     url: /résumé/
 
   - title: "Music"
@@ -10,6 +10,3 @@ main:
 
   - title: "Blog"
     url: /blog/
-
-  - title: "Notes"
-    url: /notes/

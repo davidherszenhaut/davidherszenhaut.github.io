@@ -1,6 +1,6 @@
 ---
 title: "rollgraph"
-excerpt: "A website to display data visualizations based on simulated dice rolls. <br/> <img src='images/portfolio/rollgraph.gif' alt=A demonstration of the rollgraph project'>"
+excerpt: "A website to display data visualizations based on simulated dice rolls. <br/> <img src='images/portfolio/rollgraph.gif' alt='A demonstration of the rollgraph project'>"
 collection: portfolio
 ---
 

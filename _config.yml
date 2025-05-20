@@ -5,9 +5,9 @@ title: "David Herszenhaut"
 title_separator: "|"
 name: &name "David Herszenhaut"
 description: &description "My personal website!"
-url: "https://davidherszenhaut.github.io/"
+url: https://davidherszenhaut.github.io
 baseurl: ""
-repository: "https://github.com/davidherszenhaut/davidherszenhaut.github.io"
+repository: "davidherszenhaut/davidherszenhaut.github.io"
 
 author:
   avatar: "profile.jpg"

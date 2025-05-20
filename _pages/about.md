@@ -4,6 +4,8 @@ title: "David Herszenhaut"
 author_profile: true
 redirect_from:
   - /about/
+  - /about.html
+  - /
 ---
 
 # Hello, my name is David.

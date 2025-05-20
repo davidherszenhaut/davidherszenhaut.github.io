@@ -2,7 +2,7 @@ remote_theme: academicpages/academicpages.github.io
 
 locale: "en-US"
 title: "David Herszenhaut"
-title_separator: "|"
+title_separator: "-"
 name: &name "David Herszenhaut"
 description: &description "My personal website!"
 url: https://davidherszenhaut.github.io

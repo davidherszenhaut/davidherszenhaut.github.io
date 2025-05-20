@@ -36,3 +36,8 @@ exclude:
 keep_files:
   - .git
 encoding: "utf-8"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/

@@ -1,6 +1,7 @@
 ---
 title: "I attempted to make art."
 date: 2025-01-26
+author_profile: true
 permalink: /posts/2025/01/i-attempted-to-make-art/
 tags:
   - art

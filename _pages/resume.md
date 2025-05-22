@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/David Herszenhaut - Resume.pdf" class="btn btn--inverse">View as PDF</a>
+
 # Experience
-======
+<hr />
 
 - Automated Logic, Software Engineer (September 2021–Present)
   - Developed a custom Java annotation processor that reduced system startup time by over 20 seconds
@@ -33,7 +35,7 @@ author_profile: true
   - Contributed to white paper discussing blockchain architecture and consensus protocols
 
 # Skills
-======
+<hr />
 
 - Programming Languges: Java, JavaScript, Python
 - Libraries/Frameworks: React, Redux, Node.js, Highcharts, D3.js
@@ -41,14 +43,14 @@ author_profile: true
 - Spoken Languages: English (Native), Portuguese (Conversational), Spanish (Beginner), Japanese (Beginner)
 
 # Education
-======
+<hr />
 
 - Georgia Institute of Technology (December 2019)
   - Bachelor of Science in Computer Science
   - 3.74 Major GPA
 
 # Extracurriculars
-======
+<hr />
 
 - Georgia Tech Symphony Orchestra, Cellist (August 2014–May 2016)
 - Georgia Tech Chamber Orchestra, Cellist (August 2015–May 2016)
@@ -57,7 +59,7 @@ author_profile: true
 - Joseph Wheeler High School (Magnet Program), Volunteer Tutor (August 2013–May 2014)
 
 # Relevant Coursework
-======
+<hr />
 
 - Computer Science
   - CS 1301 - Introduction to Computing

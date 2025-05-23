@@ -80,3 +80,10 @@ plugins:
   - jekyll-feed
 whitelist:
   - jekyll-feed
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

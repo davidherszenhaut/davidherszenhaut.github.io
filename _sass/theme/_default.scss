@@ -3,18 +3,18 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #737994;
-$dark-gray                  : #626880;
-$darker-gray                : #51576d;
-$light-gray                 : #838ba7;
-$lighter-gray               : #949cbb;
+$gray                       : #9ca0b0;
+$dark-gray                  : #8c8fa1;
+$darker-gray                : #7c7f93;
+$light-gray                 : #acb0be;
+$lighter-gray               : #bcc0cc;
 
 /* Color codes used for the site */
-$danger-color               : #ea999c;
-$info-color                 : #f4b8e4;
-$notice-color               : #f2d5cf;
-$success-color              : #81c8be;
-$warning-color              : #eebebe;
+$danger-color               : #e64553;
+$info-color                 : #df8e1d;
+$notice-color               : #8839ef;
+$success-color              : #40a02b;
+$warning-color              : #fe640b;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -29,14 +29,14 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 :root {
     --global-base-color                 : #{$gray};
-    --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f2f3f3;
+    --global-bg-color                   : #dce0e8;
+    --global-footer-bg-color            : #e6e9ef;
     --global-border-color               : #{$lighter-gray};
-    --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
+    --global-dark-border-color          : #ccd0da;
+    --global-code-background-color      : #bcc0cc;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
+    --global-link-color                 : #209fb5;
     --global-link-color-hover           : mix(#000, #2f7f93, 25%);
     --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
     --global-masthead-link-color        : #{$dark-gray};

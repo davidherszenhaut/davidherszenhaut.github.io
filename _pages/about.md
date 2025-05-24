@@ -8,7 +8,7 @@ redirect_from:
   - /
 ---
 
-# Hello, my name is David.
+## Hello, my name is David.
 
 I am a software engineer working at [Automated Logic](http://automatedlogic.com/) and a graduate of the Georgia Institute of Technology (B.Sc. in Computer Science). I enjoy making music, reading fantasy novels, going to concerts, and building things.
 

@@ -4,6 +4,8 @@ excerpt: "A colorful incremental game. <br/> <img src='/images/portfolio/color-c
 collection: portfolio
 ---
 
+**Color Clicker** is a website-based incremental clicker game inspired by ["Cookie Clicker"](https://en.wikipedia.org/wiki/Cookie_Clicker).
+
 This project was built using HTML5, CSS, and JavaScript.
 
 - [Demo](https://davidherszenhaut.github.io/color-clicker/)

@@ -8,6 +8,7 @@ tags:
 ---
 
 <img src="/images/blog/2025-01-26/paintings.jpeg" alt="A picture of my spray painted canvases." />
+
 A picture of my spray painted canvases.
 
 ## Background

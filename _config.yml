@@ -23,7 +23,7 @@ author:
   youtube: "OvertakeMusicChannel"
   bandcamp: "https://overtakemusicchannel.bandcamp.com/"
 
-breadcrumbs: true
+breadcrumbs: false
 atom_feed:
   hide: false
   path: 

@@ -12,24 +12,24 @@ author_profile: true
 # Experience
 <hr />
 
-- Automated Logic, Software Engineer (September 2021–Present)
+- Automated Logic, Software Engineer *(September 2021–Present)*
   - Developed a custom Java annotation processor that reduced system startup time by over 20 seconds
   - Worked with product managers to draft and complete user stories for a BACnet-based HVAC system
   - Designed CI pipeline to analyze codebase for potential defects and security vulnerabilities using Coverity
   - Created a file encryption system to securely store customer license files and prevent unauthorized editing
   - Implemented a functional testing setup running on TeamCity with over 90% code coverage
   - Conducted research on the life expectancy of onboard flash memory to be installed on BACnet controllers
-- Zuora, Software Engineer (March 2020–September 2021)
+- Zuora, Software Engineer *(March 2020–September 2021)*
   - Implemented Level 3 credit card payment processing for payment gateways which reduced interchange fees by over 1% per transaction
   - Built integrations for alternative payment methods to be used by payment service providers (such as SEPA for Stripe and payment tokens for Adyen) using Apache Velocity and REST APIs
   - Designed automated unit test plans with over 85% code coverage to catch errors in development and prevent regressions in production
   - Published customer-facing technical specification documents with the support of product management
   - Collaborated with customer support to diagnose and resolve customer issues in a timely manner
-- Anodot, Software Developer Intern (June 2019–August 2019)
+- Anodot, Software Developer Intern *(June 2019–August 2019)*
   - Developed new pages in existing web application using React, Redux, and Node.js
   - Improved administrator workflow by introducing new REST API endpoints for database operations
   - Designed user-friendly data visualizations with Highcharts to display live database usage information
-- Georgia Tech Research Institute, Student Researcher (March 2018–July 2018)
+- Georgia Tech Research Institute, Student Researcher *(March 2018–July 2018)*
   - Built a Django web application to demonstrate blockchain application’s proof of concept
   - Assisted with research detailing the potential use of blockchain technology in healthcare
   - Contributed to white paper discussing blockchain architecture and consensus protocols
@@ -45,18 +45,18 @@ author_profile: true
 # Education
 <hr />
 
-- Georgia Institute of Technology (December 2019)
+- Georgia Institute of Technology *(December 2019)*
   - Bachelor of Science in Computer Science
   - 3.74 Major GPA
 
 # Extracurriculars
 <hr />
 
-- Georgia Tech Symphony Orchestra, Cellist (August 2014–May 2016)
-- Georgia Tech Chamber Orchestra, Cellist (August 2015–May 2016)
-- Under the Couch Musicians Club, Guitarist (August 2014–May 2015)
-- Tri-M Music Honor Society, Secretary (August 2013–May 2014)
-- Joseph Wheeler High School (Magnet Program), Volunteer Tutor (August 2013–May 2014)
+- Georgia Tech Symphony Orchestra, Cellist *(August 2014–May 2016)*
+- Georgia Tech Chamber Orchestra, Cellist *(August 2015–May 2016)*
+- Under the Couch Musicians Club, Guitarist *(August 2014–May 2015)*
+- Tri-M Music Honor Society, Secretary *(August 2013–May 2014)*
+- Joseph Wheeler High School (Magnet Program), Volunteer Tutor *(August 2013–May 2014)*
 
 # Relevant Coursework
 <hr />

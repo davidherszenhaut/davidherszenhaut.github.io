@@ -11,4 +11,4 @@ This project was built using React, TypeScript, and D3.js.
 - [Demo](https://davidherszenhaut.github.io/rollgraph/)
 - [Code](https://github.com/davidherszenhaut/rollgraph)
 
-<img src='/images/portfolio/rollgraph.gif alt='A demonstration of the rollgraph project'>
+<img src='/images/portfolio/rollgraph.gif' alt='A demonstration of the rollgraph project'>

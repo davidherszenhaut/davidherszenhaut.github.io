@@ -25,7 +25,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Sinners**: 4/5.
 
-**Until Dawn: 3/5.
+**Until Dawn**: 3/5.
 
 **Final Destination Bloodlines**: 3/5.
 

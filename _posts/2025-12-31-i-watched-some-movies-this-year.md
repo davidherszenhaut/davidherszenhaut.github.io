@@ -17,7 +17,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Mickey 17**: 3/5.
 
-**The Amateur**: 2/5.
+**The Amateur**: I feel like I've seen several movies like this. 2/5.
 
 **Drop**: It had some tense scenes, but was ultimately a little predictable and had a bit of a rushed ending. 2.5/5.
 
@@ -25,7 +25,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Sinners**: This movie would have been amazing even without the vampires. 4/5.
 
-**Until Dawn**: 3/5.
+**Until Dawn**: Fun little horror movie. 3/5.
 
 **Final Destination Bloodlines**: A very fun addition to the franchise that I think fans of the series will enjoy. My only nitpick is the quality of the CGI. 3/5.
 

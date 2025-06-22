@@ -9,7 +9,7 @@ tags:
 
 Welcome to my very professional and very in-depth thoughts on the (new) movies I saw in 2025.
 
-**Companion**: 3.5/5.
+**Companion**: 4/5.
 
 **Captain America: Brave New World**: It's just so bad. 1/5.
 
@@ -23,10 +23,12 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Warfare**: 3/5.
 
-**Sinners**: This movie would have been amazing even without the vampires. 4/5.
+**Sinners**: This movie would have been amazing even without the vampires. 4.5/5.
 
 **Until Dawn**: Fun little horror movie. 3/5.
 
 **Final Destination Bloodlines**: A very fun addition to the franchise that I think fans of the series will enjoy. My only nitpick is the quality of the CGI. 3/5.
 
 **Mission: Impossible - The Final Reckoning**: More like *Mid-ssion: Impossible*, am I right? 2.5/5.
+
+**Predator: Killer of Killers**: 2.5/5.

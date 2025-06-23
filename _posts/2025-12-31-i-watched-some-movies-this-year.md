@@ -32,3 +32,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **Mission: Impossible - The Final Reckoning**: More like *Mid-ssion: Impossible*, am I right? 2.5/5.
 
 **Predator: Killer of Killers**: 2.5/5.
+
+**28 Years Later**: There were some nice things here (landscape shots, practical effects, the physicality of the not-zombies), but it wasn't that entertaining overall. 2.5/5.

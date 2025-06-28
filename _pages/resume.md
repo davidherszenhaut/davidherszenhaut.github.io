@@ -13,12 +13,15 @@ author_profile: true
 <hr />
 
 - Automated Logic, Software Engineer *(September 2021–Present)*
+  - More on the way!
+{% comment %}
   - Developed a custom Java annotation processor that reduced system startup time by over 20 seconds
   - Worked with product managers to draft and complete user stories for a BACnet-based HVAC system
   - Designed CI pipeline to analyze codebase for potential defects and security vulnerabilities using Coverity
   - Created a file encryption system to securely store customer license files and prevent unauthorized editing
   - Implemented a functional testing setup running on TeamCity with over 90% code coverage
   - Conducted research on the life expectancy of onboard flash memory to be installed on BACnet controllers
+{% endcomment %}
 - Zuora, Software Engineer *(March 2020–September 2021)*
   - Implemented Level 3 credit card payment processing for payment gateways which reduced interchange fees by over 1% per transaction
   - Built integrations for alternative payment methods to be used by payment service providers (such as SEPA for Stripe and payment tokens for Adyen) using Apache Velocity and REST APIs

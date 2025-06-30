@@ -35,4 +35,4 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **28 Years Later**: There were some nice things here (acting, landscape shots, practical effects, the physicality of the not-zombies), but it felt a little all over the place. 3/5.
 
-**F1**: The story was very predictable, but I'm a biased F1 fan. 4/5.
+**F1**: The story was very predictable and there was a surprising lack of penalties for a movie that marketed itself so much on authenticity, but I'm a biased F1 fan. 4/5.

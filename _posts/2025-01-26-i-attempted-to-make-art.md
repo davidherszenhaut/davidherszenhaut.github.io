@@ -9,8 +9,6 @@ tags:
 
 <img src="/images/blog/2025-01-26/paintings.jpeg" alt="A picture of my spray painted canvases." />
 
-A picture of my spray painted canvases.
-
 ## Background
 
 I had spent about a year looking for some artwork to put above my couch, but I never found anything I really liked. I wanted something that was either abstract or nature-y, and I wanted it to feature a decent amount of red. One day, YouTub recommended me a video of someone recreating Eddie Van Halen's iconic [Frankenstrat](https://en.wikipedia.org/wiki/Frankenstrat) and I thought "Why not try for myself?"

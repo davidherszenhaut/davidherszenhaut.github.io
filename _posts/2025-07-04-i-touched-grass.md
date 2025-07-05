@@ -7,22 +7,28 @@ tags:
   - photography
 tree_gallery:
   - url: /images/blog/2025-07-04/3-trees.jpg
+    image_path: /images/blog/2025-07-04/3-trees.jpg
     alt: "Some trees"
     title: "Some trees"
   - url: /images/blog/2025-07-04/8-trees.jpg
+    image_path: /images/blog/2025-07-04/8-trees.jpg
     alt: "Some trees"
     title: "Some trees"
 deer_gallery:
   - url: /images/blog/2025-07-04/9-deer.jpg
+    image_path: /images/blog/2025-07-04/9-deer.jpg
     alt: "Some deer"
     title: "Some deer"
   - url: /images/blog/2025-07-04/10-deer.jpg
+    image_path: /images/blog/2025-07-04/10-deer.jpg
     alt: "Some deer"
     title: "Some deer"
   - url: /images/blog/2025-07-04/11-deer.jpg
+    image_path: /images/blog/2025-07-04/11-deer.jpg
     alt: "Some deer"
     title: "Some deer"
   - url: /images/blog/2025-07-04/12-deer.jpg
+    image_path: /images/blog/2025-07-04/12-deer.jpg
     alt: "Some deer"
     title: "Some deer"
 ---

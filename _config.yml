@@ -24,7 +24,7 @@ author:
   bandcamp: "https://overtakemusicchannel.bandcamp.com/"
 
 breadcrumbs: false
-future: false
+future: true
 atom_feed:
   hide: false
   path: 

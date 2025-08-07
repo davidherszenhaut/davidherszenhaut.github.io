@@ -6,29 +6,29 @@ permalink: /posts/2025/07/i-touched-grass/
 tags:
   - photography
 tree_gallery:
-  - url: /blog/2025-07-04/3-trees.jpg
-    image_path: /blog/2025-07-04/3-trees.jpg
+  - url: blog/2025-07-04/3-trees.jpg
+    image_path: blog/2025-07-04/3-trees.jpg
     alt: "Some trees"
     title: "Some trees"
-  - url: /blog/2025-07-04/8-trees.jpg
-    image_path: /blog/2025-07-04/8-trees.jpg
+  - url: blog/2025-07-04/8-trees.jpg
+    image_path: blog/2025-07-04/8-trees.jpg
     alt: "Some trees"
     title: "Some trees"
 deer_gallery:
-  - url: /blog/2025-07-04/9-deer.jpg
-    image_path: /blog/2025-07-04/9-deer.jpg
+  - url: blog/2025-07-04/9-deer.jpg
+    image_path: blog/2025-07-04/9-deer.jpg
     alt: "Some deer"
     title: "Some deer"
-  - url: /blog/2025-07-04/10-deer.jpg
-    image_path: /blog/2025-07-04/10-deer.jpg
+  - url: blog/2025-07-04/10-deer.jpg
+    image_path: blog/2025-07-04/10-deer.jpg
     alt: "Some deer"
     title: "Some deer"
-  - url: /blog/2025-07-04/11-deer.jpg
-    image_path: /blog/2025-07-04/11-deer.jpg
+  - url: blog/2025-07-04/11-deer.jpg
+    image_path: blog/2025-07-04/11-deer.jpg
     alt: "Some deer"
     title: "Some deer"
-  - url: /blog/2025-07-04/12-deer.jpg
-    image_path: /blog/2025-07-04/12-deer.jpg
+  - url: blog/2025-07-04/12-deer.jpg
+    image_path: blog/2025-07-04/12-deer.jpg
     alt: "Some deer"
     title: "Some deer"
 ---

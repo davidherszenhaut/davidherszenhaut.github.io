@@ -38,3 +38,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **F1**: The story was very predictable and there was a surprising lack of penalties for a movie that marketed itself so much on authenticity, but I'm a biased F1 fan. 4/5.
 
 **Eddington**: I'm not sure if this is the least crazy or most crazy Ari Aster film I've seen. 3.5/5.
+
+**Weapons**: Very unsettling, very funny, and the various plot lines came together nicely. Also, this movie *really* loves tracking shots. Also also, this might be the closest we get to Naruto running in a horror movie. 4.5/5.

@@ -9,7 +9,7 @@ tags:
 
 Welcome to my very professional and very in-depth thoughts on the (new) movies I saw in 2025.
 
-**Companion**: I liked it! 4/5.
+**Companion**: I really liked it! 4/5.
 
 **Captain America: Brave New World**: It's just so bad. 1/5.
 
@@ -17,7 +17,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Mickey 17**: I liked it. 3/5.
 
-**The Amateur**: I feel like I've seen several movies like this. 2/5.
+**The Amateur**: I feel as though I've seen several movies like this already. 2/5.
 
 **Drop**: It had some tense scenes, but was ultimately a little predictable and had a bit of a rushed ending. 2.5/5.
 
@@ -40,3 +40,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **Eddington**: I'm not sure if this is the least crazy or most crazy Ari Aster film I've seen. 3.5/5.
 
 **Weapons**: Very unsettling, very funny, and the various plot lines came together nicely. Also, this movie *really* loves tracking shots. Also also, this might be the closest we get to Naruto running in a horror movie. 4.5/5.
+
+**シン・ゴジラ**: 本当に官僚的な映画でしたけど、たくさん面白いところもありました。なお、短いエレベータ言及場面見ましたと思います！ 4/5.

@@ -42,3 +42,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **Weapons**: Very unsettling, very funny, and the various plot lines came together nicely. Also, this movie *really* loves tracking shots. Also also, this might be the closest we get to Naruto running in a horror movie. 4.5/5.
 
 **シン・ゴジラ**: 本当に官僚的な映画でしたけど、たくさん面白いところもありました。なお、短いエレベータ言及場面見ましたと思います！ 4/5.
+
+**Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle**: すごく長い少年漫画的映画でした. 2/5.
+
+**The Long Walk**: Just a nice walk in the countryside with your bros. 3.5/5.

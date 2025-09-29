@@ -39,7 +39,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Eddington**: I'm not sure if this is the least crazy or most crazy Ari Aster film I've seen. 3.5/5.
 
-**Weapons**: Very unsettling, very funny, and the various plot lines came together nicely. Also, this movie *really* loves tracking shots. Also also, this might be the closest we get to Naruto running in a horror movie. 4.5/5.
+**Weapons**: Very unsettling, very funny, and the various plot lines came together nicely. Also, this movie *really* loves tracking shots. 4.5/5.
 
 **シン・ゴジラ**: 本当に官僚的な映画でしたけど、たくさん面白いところもありました。なお、短いエレベータ言及場面見ましたと思います！ 4/5.
 

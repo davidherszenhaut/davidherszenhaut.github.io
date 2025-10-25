@@ -46,3 +46,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle**: すごく長い少年漫画的映画でした. 2/5.
 
 **The Long Walk**: Just a nice walk in the countryside with your bros. 3.5/5.
+
+**Chainsaw Man – The Movie: Reze Arc**: この映画は爆弾でした (does that pun work in Japanese?)！ 3/5.

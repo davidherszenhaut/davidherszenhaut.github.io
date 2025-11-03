@@ -48,3 +48,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **The Long Walk**: Just a nice walk in the countryside with your bros. 3.5/5.
 
 **Chainsaw Man – The Movie: Reze Arc**: この映画は爆弾でした (does that pun work in Japanese?)！ 3/5.
+
+**Bugonia**: This movie started off insane and managed to get progressively more insane up until the end. Fantastic. 4/5.

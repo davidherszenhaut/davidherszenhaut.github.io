@@ -50,3 +50,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **Chainsaw Man – The Movie: Reze Arc**: この映画は爆弾でした (does that pun work in Japanese?)！ 3/5.
 
 **Bugonia**: This movie started off insane and managed to get progressively more insane up until the end. Fantastic. 4/5.
+
+**Predator: Badlands**: I think more Yautja would have successful hunts if they embraced the power of friendship like Dek. 4/5.

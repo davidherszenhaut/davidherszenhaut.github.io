@@ -7,6 +7,8 @@ tags:
   - art
 ---
 
+It's amazing what you can do with some canvases, spray paint, and tape.
+
 <img src="/images/blog/2025-01-26/paintings.jpeg" alt="A picture of my spray painted canvases." />
 
 ## Background

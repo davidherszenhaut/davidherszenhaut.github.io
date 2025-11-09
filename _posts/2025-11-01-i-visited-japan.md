@@ -6,6 +6,8 @@ permalink: /posts/2025/11/i-visited-japan/
 redirect_from:
   - /posts/2025/11/日本を訪れました/
   - /posts/2025/11/%E6%97%A5%E6%9C%AC%E3%82%92%E8%A8%AA%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/
+  - /posts/2025/11/日本を訪ねました/
+  - /posts/2025/11/%E6%97%A5%E6%9C%AC%E3%82%92%E8%A8%AA%E3%81%AD%E3%81%BE%E3%81%97%E3%81%9F/
 tags:
   - travel
 ---

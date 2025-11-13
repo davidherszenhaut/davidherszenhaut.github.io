@@ -100,10 +100,10 @@ Not exactly [左手に](https://www.youtube.com/watch?v=7F_un08wc5A), but...
 
 <figure>
   <img src="/images/blog/2025-11-01/day3/11.jpg" alt="アサヒビルグループ本社スーパードライホール" />
-  <figcaption>アサヒビルグループ本社スーパードライホール (Asahi Group Head Office Super Dry Hall)</figcaption>
+  <figcaption>アサヒビルグループ本社スーパードライホール (<a href="https://maps.app.goo.gl/4TjzXEcyw12ekEy37">Asahi Group Head Office Super Dry Hall</a>)</figcaption>
 </figure>
 
-[金のうんこ](https://maps.app.goo.gl/4TjzXEcyw12ekEy37)を見つけました!
+[金のうんこ](https://en.wikipedia.org/wiki/Asahi_Beer_Hall#The_Asahi_Flame_(Flamme_d'Or))を見つけました!
 
 <figure>
   <img src="/images/blog/2025-11-01/day3/13.jpg" alt="東京スカイツリーのグラス床" />
@@ -132,7 +132,7 @@ Bro did not learn _anything_ from <a href="https://en.wikipedia.org/wiki/Final_D
 
 <figure>
   <img src="/images/blog/2025-11-01/day4/3.jpg" alt="東京駅キャラクターストリート" />
-  <figcaption>東京駅キャラクターストリート</figcaption>
+  <figcaption>東京駅キャラクターストリート (<a href="https://maps.app.goo.gl/47vv8tWeb9699rDA6">Tokyo Character Street</a>)</figcaption>
 </figure>
 
 ## 銀座 ([Ginza](https://maps.app.goo.gl/LChvpq1j2Ar59E6q9))
@@ -189,6 +189,8 @@ Truly an auspicious day. I got my first ever 「日本語上手」 at a [guitar 
   <img src="/images/blog/2025-11-01/day4/12.jpg" alt="東京都庁舎から眺め" />
   <figcaption>東京都庁舎から眺め</figcaption>
 </figure>
+
+もしかしたら[代々木公園](https://maps.app.goo.gl/NngCJvXtoS8aRqjAA)ですか？
 
 <figure>
   <img src="/images/blog/2025-11-01/day4/13.jpg" alt="東京都庁舎から眺め" />
@@ -368,7 +370,7 @@ Truly an auspicious day. I got my first ever 「日本語上手」 at a [guitar 
 
 <figure>
   <img src="/images/blog/2025-11-01/day6/3.jpg" alt="早川" />
-  <figcaption>早川</figcaption>
+  <figcaption>早川 (<a href="https://maps.app.goo.gl/YmtXnY6rGqJkX917A">Haya River</a>)</figcaption>
 </figure>
 
 ## 芦ノ湖 ([Lake Ashi](https://maps.app.goo.gl/2RZm3dX5SqPXDu6CA))
@@ -390,7 +392,7 @@ The sickest [峠](https://en.wikipedia.org/wiki/Mountain_pass#Synonyms) machine 
   <figcaption>海賊船</figcaption>
 </figure>
 
-THE ONE PIECE IS REAL!
+[THE ONE PIECE IS REAL!](https://www.youtube.com/watch?v=dsKlgUipnEM)
 
 <figure>
   <img src="/images/blog/2025-11-01/day6/7.jpg" alt="箱根神社" />
@@ -407,7 +409,7 @@ THE ONE PIECE IS REAL!
   <figcaption>海賊船</figcaption>
 </figure>
 
-I'VE NEVER ACTUALLY WATCHED ONE PIECE!
+I'VE NEVER ACTUALLY WATCHED ["ONE PIECE"](https://en.wikipedia.org/wiki/One_Piece)!
 
 ## 大涌谷 ([Owakudani](https://maps.app.goo.gl/JMpUDpb3itrWKAWg6))
 
@@ -503,6 +505,8 @@ I'VE NEVER ACTUALLY WATCHED ONE PIECE!
   <img src="/images/blog/2025-11-01/day6/26.jpg" alt="箱根湯本エヴァンゲリオン屋" />
   <figcaption>箱根湯本エヴァンゲリオン屋</figcaption>
 </figure>
+
+[It all returns to nothing...](https://www.youtube.com/watch?v=hoKluzn07eQ)
 
 <figure>
   <img src="/images/blog/2025-11-01/day6/27.jpg" alt="箱根湯本エヴァンゲリオン屋" />
@@ -860,7 +864,7 @@ After arriving in Kyoto, I got two more 「日本語上手」s at a [nice little
 
 <figure>
   <img src="/images/blog/2025-11-01/day9/12.jpg" alt="龍門の滝" />
-  <figcaption><a href="https://maps.app.goo.gl/wnsaNWQcqTaDey4s6">龍門のたき</a></figcaption>
+  <figcaption><a href="https://maps.app.goo.gl/wnsaNWQcqTaDey4s6">龍門の滝</a></figcaption>
 </figure>
 
 <figure>
@@ -1185,7 +1189,7 @@ After arriving in Kyoto, I got two more 「日本語上手」s at a [nice little
   <figcaption>ヨドバシカメラマルチメディア京都の中</figcaption>
 </figure>
 
-Not the "Demon Slayer" ice latte collab 😭
+Not the ["Demon Slayer"](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) ice latte collab 😭
 
 # 11. 十一日 - 京都 ([Kyoto](https://maps.app.goo.gl/tBWp213rTHNzP8Zt7))
 
@@ -1296,7 +1300,7 @@ Not the "Demon Slayer" ice latte collab 😭
   <figcaption>ハローキティ新幹線</figcaption>
 </figure>
 
-Not the 「ハローキティ」 x 新幹線 collab 😭
+Not the [「ハローキティ」](https://en.wikipedia.org/wiki/Hello_Kitty) x 新幹線 collab 😭
 
 <figure>
   <img src="/images/blog/2025-11-01/day12/6.jpg" alt="新幹線からの眺め" />
@@ -1308,7 +1312,7 @@ Not the 「ハローキティ」 x 新幹線 collab 😭
   <figcaption>JRの宣伝</figcaption>
 </figure>
 
-Not the "One Piece" x JR collab 😭
+Not the "One Piece" x [JR](https://en.wikipedia.org/wiki/Japan_Railways_Group) collab 😭
 
 ## 厳島 ([Itsukushima](https://maps.app.goo.gl/wQVewFdtxZMLHG5D7))
 
@@ -1628,12 +1632,12 @@ Not the "One Piece" x JR collab 😭 (again)
 
 <figure>
   <img src="/images/blog/2025-11-01/day14/15.jpg" alt="大阪城の最上階からの眺め" />
-  <figcaption>大阪城の最上階からの眺め</figcaption>
+  <figcaption>大阪城の外からの眺め</figcaption>
 </figure>
 
 <figure>
   <img src="/images/blog/2025-11-01/day14/16.jpg" alt="大阪城の最上階からの眺め" />
-  <figcaption>大阪城の最上階からの眺め</figcaption>
+  <figcaption>大阪城の外からの眺め</figcaption>
 </figure>
 
 <figure>
@@ -1803,42 +1807,42 @@ Gnarly root-age
 
 <figure>
   <img src="/images/blog/2025-11-01/day15/21.jpg" alt="梅田スカイビルのエスカレーターからの眺め" />
-  <figcaption>梅田スカイビルのエスカレ>ーターからの眺め</figcaption>
+  <figcaption>梅田スカイビルのエスカレーターからの眺め</figcaption>
 </figure>
 
 <figure>
   <img src="/images/blog/2025-11-01/day15/22.jpg" alt="梅田スカイビルのエスカレ>ーターからの眺め" />
-  <figcaption>梅田スカイビルのエスカレ>ーターからの眺め</figcaption>
+  <figcaption>梅田スカイビルのエスカレーターからの眺め</figcaption>
 </figure>
 
 <figure>
   <img src="/images/blog/2025-11-01/day15/23.jpg" alt="梅田スカイビルのエスカレ>ーターからの眺め" />
-  <figcaption>梅田スカイビルのエスカレ>ーターからの眺め</figcaption>
+  <figcaption>梅田スカイビルのエスカレーターからの眺め</figcaption>
 </figure>
 
 <figure>
   <img src="/images/blog/2025-11-01/day15/24.jpg" alt="梅田スカイビルのエスカレ>ーターからの眺め" />
-  <figcaption>梅田スカイビルのエスカレ>ーターからの眺め</figcaption>
+  <figcaption>梅田スカイビルのエスカレーターからの眺め</figcaption>
 </figure>
 
 <figure>
   <img src="/images/blog/2025-11-01/day15/25.jpg" alt="梅田スカイビルのエスカレ>ーターからの眺め" />
-  <figcaption>梅田スカイビルのエスカレ>ーターからの眺め</figcaption>
+  <figcaption>梅田スカイビルのエスカレーターからの眺め</figcaption>
 </figure>
 
 <figure>
   <img src="/images/blog/2025-11-01/day15/26.jpg" alt="梅田スカイビルのエスカレ>ーターからの眺め" />
-  <figcaption>梅田スカイビルのエスカレ>ーターからの眺め</figcaption>
+  <figcaption>梅田スカイビルのエスカレーターからの眺め</figcaption>
 </figure>
 
 <figure>
   <img src="/images/blog/2025-11-01/day15/27.jpg" alt="梅田スカイビルのエスカレ>ーターの眺め" />
-  <figcaption>梅田スカイビルのエスカレ>ーターの眺め</figcaption>
+  <figcaption>梅田スカイビルのエスカレーターの眺め</figcaption>
 </figure>
 
 <figure>
   <img src="/images/blog/2025-11-01/day15/28.jpg" alt="梅田スカイビルのエスカレ>ーターの眺め" />
-  <figcaption>梅田スカイビルのエスカレ>ーターの眺め</figcaption>
+  <figcaption>梅田スカイビルのエスカレーターの眺め</figcaption>
 </figure>
 
 <figure>
@@ -2244,6 +2248,7 @@ Here's a list of the main listening resources I used to practice my listening co
 - [あかね的日本語教室](https://www.youtube.com/@Akane-JapaneseClass)
 - [ゲーム言語](https://www.youtube.com/@GameGengo)
 - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
+- [SUPER GT Official Channel](https://www.youtube.com/@SUPERGTOfficialChannel)
 - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
 
 ## Reading

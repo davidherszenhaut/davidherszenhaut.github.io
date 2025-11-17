@@ -52,3 +52,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **Bugonia**: This movie started off insane and managed to get progressively more insane up until the end. Fantastic. 4/5.
 
 **Predator: Badlands**: I think more Yautja would have successful hunts if they embraced the power of friendship like Dek. 4/5.
+
+**The Running Man**: V for Vendetta: America Edition. I think the least realistic part of this movie may have been the Shinkansen-style train operating in the USA. 2.5/5.

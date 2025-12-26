@@ -41,13 +41,13 @@ tags:
 </figure>
 
 <figure>
-  <img src="/images/blog/2025-11-01/day3/2.jpg" alt="階段と門" />
-  <figcaption>階段と門</figcaption>
+  <img src="/images/blog/2025-11-01/day3/2.jpg" alt="五條天神社" />
+  <figcaption>五條天神社 (<a href="https://maps.app.goo.gl/PGV9u1RTDSZ52pCh6">Gojo Ten-jinja</a>)</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/blog/2025-11-01/day3/3.jpg" alt="お寺" />
-  <figcaption>お寺</figcaption>
+  <img src="/images/blog/2025-11-01/day3/3.jpg" alt="清水観音堂" />
+  <figcaption>清水観音堂 (<a href="https://maps.app.goo.gl/mXjeTQxK6wEZjQ5G7">Kiyomizu Kannon-dou Temple</a>)</figcaption>
 </figure>
 
 <figure>

@@ -1,5 +1,5 @@
 ---
-title: "I watched some movies this year."
+title: "I watched some movies this year. (2025)"
 date: 2025-12-31
 author_profile: true
 permalink: /posts/2025/12/i-watched-some-movies-this-year/

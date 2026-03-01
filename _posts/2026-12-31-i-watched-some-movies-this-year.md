@@ -16,3 +16,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **Crime 101**: Watching this movie is how I imagine eating a pack of trading cards would feel. There's some flashy stuff (like some interesting camera movements), an interesting character or three (like Halle Berry's and Barry Keoghan's), but at the end of the day, it's still just eating cardboard. 2/5.
 
 **How to Make a Killing**: I'm not sure who was more disinterested at the end of the story: me or the framing device priest. 2/5.
+
+**Scream 7**: I think that _Scream_ might be the most consistently enjoyable horror franchise. 4/5.

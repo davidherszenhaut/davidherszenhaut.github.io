@@ -18,3 +18,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **How to Make a Killing**: I'm not sure who was more disinterested at the end of the story: me or the framing device priest. 2/5.
 
 **Scream 7**: I think that _Scream_ might be the most consistently enjoyable horror franchise. 4/5.
+
+**The Bride!**: I liked the vibes and atmosphere of this movie, and I wish that some of the subplots had been fleshed (😉) out more (like Myrna's character and the cult of the The Bride). Also, I thought that Jessie Buckley's switching between Ida, The Bride, and Shelley was well done. 4/5.

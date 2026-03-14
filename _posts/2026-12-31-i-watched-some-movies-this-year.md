@@ -17,6 +17,6 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **How to Make a Killing**: I'm not sure who was more disinterested at the end of the story: me or the framing device priest. 2/5.
 
-**Scream 7**: I think that _Scream_ might be the most consistently enjoyable horror franchise. 4/5.
+**Scream 7**: I used to think that _Scream_ might be the most consistently enjoyable horror franchise, but I think that title might now belong to _Final Destination_ for me. These Ghostfaces might be the weakest yet (in terms of motivation) and the lack of de-aging in the deepfakes seems like a major oversight. Also, I think this high school drama club had a larger budget than my actual high school. 2.5/5.
 
-**The Bride!**: I liked the vibes and atmosphere of this movie, and I wish that some of the subplots had been fleshed (😉) out more (like Myrna's character and the cult of the The Bride). Also, I thought that Jessie Buckley's switching between Ida, The Bride, and Shelley was well done. 4/5.
+**The Bride!**: I liked the vibes and atmosphere of this movie, but I wish that some of the subplots had been fleshed (😉) out more (like Myrna's character and the cult of the The Bride). Also, I thought that Jessie Buckley's switching between Ida, The Bride, and Shelley was well done. 3.5/5.

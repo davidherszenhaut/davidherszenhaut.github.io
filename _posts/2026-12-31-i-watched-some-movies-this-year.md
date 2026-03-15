@@ -17,6 +17,8 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **How to Make a Killing**: I'm not sure who was more disinterested at the end of the story: me or the framing device priest. 2/5.
 
-**Scream 7**: I used to think that _Scream_ might be the most consistently enjoyable horror franchise, but I think that title might now belong to _Final Destination_ for me. These Ghostfaces might be the weakest yet (in terms of motivation) and the lack of de-aging in the deepfakes seems like a major oversight. Also, I think this high school drama club had a larger budget than my actual high school. 2.5/5.
+**Scream 7**: I used to think that _Scream_ might be the most consistently enjoyable horror franchise, but I think that title might now belong to _Evil Dead_ or _Final Destination_ for me. These Ghostfaces might be the weakest yet (in terms of motivation) and the lack of de-aging in the deepfakes seems like a major oversight. Also, I think this high school drama club had a larger budget than my actual high school. 2.5/5.
 
 **The Bride!**: I liked the vibes and atmosphere of this movie, but I wish that some of the subplots had been fleshed (😉) out more (like Myrna's character and the cult of the The Bride). Also, I thought that Jessie Buckley's switching between Ida, The Bride, and Shelley was well done. 3.5/5.
+
+**Undertone**: There were a lot of cool things here (the "solo" acting, the slow panning shots making me wonder what was slowly going to creep into frame, the claustrophic setting), but the pacing was very strange. I'm no stranger to "slow burn" films, but the first few days were quite repetitive and the movie just ramps it up to 100 in the last couple of minutes. Between this and _[Slender Man](https://en.wikipedia.org/wiki/Slender_Man_(film))_, I wonder if [creepypastas](https://en.wikipedia.org/wiki/Creepypasta) are stories better suited for the internet (or maybe _Backrooms_ will prove me wrong). 3/5.

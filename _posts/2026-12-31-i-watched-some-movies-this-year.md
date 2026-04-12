@@ -30,3 +30,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **They Will Kill You**: This movie had a ridiculous premise, a ridiculous plot, ridiculous Tarantino-esque fight scenes, a ridiculous final boss fight, and a pretty sick soundtrack. Good fun. 4/5.
 
 **The Drama**: Single life may get lonely at times, but at least you don't have to deal with whatever this was. It didn't quite get to the sweat-inducing heights of other ["social anxiety horror movies"](https://www.youtube.com/watch?v=V0lDtJIlUnc) for me, but maybe that just means it's a more realistic and relatable movie. Also, I liked the ["hell is other people"](https://en.wikipedia.org/wiki/No_Exit) vibes from the wedding scene near the end. 3.5/5.
+
+**８番出口**: 気味悪いウォーキングシミュレーターゲームから本物の映画まで出来ました。面白いキャラ。賢いカメラの運動さ。感動的なテーマ。素敵な映画。　4/5.

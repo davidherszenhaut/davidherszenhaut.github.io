@@ -32,3 +32,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **The Drama**: Single life may get lonely at times, but at least you don't have to deal with whatever this was. It didn't quite get to the sweat-inducing heights of other ["social anxiety horror movies"](https://www.youtube.com/watch?v=V0lDtJIlUnc) for me, but maybe that just means it's a more realistic and relatable movie. Also, I liked the ["hell is other people"](https://en.wikipedia.org/wiki/No_Exit) vibes from the wedding scene near the end. 3.5/5.
 
 **８番出口**: 気味悪いウォーキングシミュレーターゲームから本物の映画まで出来ました。面白いキャラ。賢いカメラの運動さ。感動的なテーマ。素敵な映画。　4/5.
+
+**The Mummy**: This movie was basically *[The Exorcist](https://en.wikipedia.org/wiki/The_Exorcist)* with a splash of *[Evil Dead](https://en.wikipedia.org/wiki/Evil_Dead)*. I knew this wasn't going to be an adventure movie like the original and the *Evil Dead* influence isn't surprising considering [the director's previous work](https://en.wikipedia.org/wiki/Evil_Dead_Rise), but I was hoping it would at least be somewhat original in its premise. I will, however, give it credit for being the nastiest movie I've seen in a hot minute. 3/5.

@@ -70,8 +70,8 @@ tags:
 </figure>
 
 <figure>
-  <img src="/images/blog/2025-11-01/day3/7.jpg" alt="「ダンダダン」を見つけました" />
-  <figcaption><a href="https://en.wikipedia.org/wiki/Dandadan">「ダンダダン」</a>を見つけました！</figcaption>
+  <img src="/images/blog/2025-11-01/day3/7.jpg" alt="『ダンダダン』を見つけました" />
+  <figcaption><a href="https://en.wikipedia.org/wiki/Dandadan">『ダンダダン』</a>を見つけました！</figcaption>
 </figure>
 
 <figure>
@@ -205,8 +205,8 @@ Truly an auspicious day. I got my first ever 「日本語上手」 at a [guitar 
 ## タワーレコード新宿店 ([Tower Records Shinjuku](https://maps.app.goo.gl/FbJjR7nTXCAZic328))
 
 <figure>
-  <img src="/images/blog/2025-11-01/day4/15.jpg" alt="「ぼっち・ざ・ろっく！」の宣伝" />
-  <figcaption>「ぼっち・ざ・ろっく！」の宣伝</figcaption>
+  <img src="/images/blog/2025-11-01/day4/15.jpg" alt="『ぼっち・ざ・ろっく！』の宣伝" />
+  <figcaption>『ぼっち・ざ・ろっく！』の宣伝</figcaption>
 </figure>
 
 [最高のアニメ](https://www.youtube.com/watch?v=SDk1RA4g8CA)を見つけました！
@@ -655,7 +655,7 @@ It's ok, Shinji. You don't have to get in the robot if you don't want to.
 
 <figure>
   <img src="/images/blog/2025-11-01/day7/21.jpg" alt="紀伊国屋書店新宿本店の中" />
-  <figcaption>たくさん「ナルト」ありますね</figcaption>
+  <figcaption>たくさん『ナルト』ありますね</figcaption>
 </figure>
 
 ## 新宿御苑 ([Shinjuku Gyoen National Garden](https://maps.app.goo.gl/YbkJCENUN4AW7Gx5A))
@@ -1300,7 +1300,7 @@ Not the ["Demon Slayer"](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_
   <figcaption>ハローキティ新幹線</figcaption>
 </figure>
 
-Not the [「ハローキティ」](https://en.wikipedia.org/wiki/Hello_Kitty) x 新幹線 collab 😭
+Not the [ハローキティ](https://en.wikipedia.org/wiki/Hello_Kitty) x 新幹線 collab 😭
 
 <figure>
   <img src="/images/blog/2025-11-01/day12/6.jpg" alt="新幹線からの眺め" />
@@ -2012,7 +2012,7 @@ Gnarly root-age
   <figcaption>販売機</figcaption>
 </figure>
 
-Not the [「フリーレン」](https://en.wikipedia.org/wiki/Frieren) x Asahi collab 😭
+Not the [『フリーレン』](https://en.wikipedia.org/wiki/Frieren) x Asahi collab 😭
 
 ## 天保山大観覧車 ([Tempozan Ferris Wheel](https://maps.app.goo.gl/ngxVgqeXpb3Qv8P16))
 
@@ -2254,4 +2254,4 @@ Here's a list of the main listening resources I used to practice my listening co
 ## Reading
 
 - [NHKやさしいことばニューズ](https://news.web.nhk/news/easy/) (short news articles with (optional) 振り仮名 and audio)
-- [ドロヘドロ](https://en.wikipedia.org/wiki/Dorohedoro)
+- [『ドロヘドロ』](https://en.wikipedia.org/wiki/Dorohedoro)

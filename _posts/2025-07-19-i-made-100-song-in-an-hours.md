@@ -1,5 +1,5 @@
 ---
-title: "I made 100 'Song in an Hour's."
+title: "I made 100 \"Song in an Hour\"s."
 date: 2025-07-19
 author_profile: true
 permalink: /posts/2025/01/i-made-100-song-in-an-hours/

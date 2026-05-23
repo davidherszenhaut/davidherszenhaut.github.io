@@ -43,4 +43,6 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Michael**: Between this, *[Rocketman](https://en.wikipedia.org/wiki/Rocketman_(film))*, and *[Elvis](https://en.wikipedia.org/wiki/Elvis_(2022_film))*, I don't think musical biopics are for me. 2/5.
 
-**Obsession**: "What do you normally do when I'm gone?" "Wait for you to get back..." I've seen a lot of "monkey's paw" stories, but I can't remember seeing one with such a slimy protagonist who refuses to even consider that they've done a bad thing that needs to be undone. This movie was cruel and nasty and deeply discomforting (and I don't mean that in a bad way). The sketch comedy to horror pipeline is still going strong. 4.5/5.
+**Obsession**: "What do you normally do when I'm gone?" "Wait for you to get back..." I've seen a lot of "monkey's paw" stories, but I can't remember seeing one with such a slimy (to put it mildly) protagonist who refuses to even consider that they've done a bad thing that needs to be undone. This movie was cruel and nasty and deeply discomforting (and I don't mean that in a bad way). The sketch comedy to horror pipeline is still going strong. 4.5/5.
+
+**In the Grey**: This felt like a screenshot of a photograph of a fax of a Guy Ritchie movie. Where was all the snappy editing and the punchy action (no pun intended) and the witty dialogue? It almost felt like the theater was under water and the movie was muffled and moving slower as a result. 2/5.

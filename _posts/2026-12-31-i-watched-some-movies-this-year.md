@@ -43,7 +43,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Michael**: Between this, *[Rocketman](https://en.wikipedia.org/wiki/Rocketman_(film))*, and *[Elvis](https://en.wikipedia.org/wiki/Elvis_(2022_film))*, I don't think musical biopics are for me. 2/5.
 
-**Obsession**: "What do you normally do when I'm gone?" "Wait for you to get back..." I've seen a lot of "monkey's paw" stories, but I can't remember seeing one with such a slimy (to put it mildly) protagonist who refuses to even consider that they've done a bad thing that needs to be undone. This movie was cruel and nasty and deeply discomforting (and I don't mean that in a bad way). The sketch comedy to horror pipeline is still going strong. 4.5/5.
+**Obsession**: "What do you normally do when I'm gone?" "Wait for you to get back..." I've seen a lot of "monkey's paw" stories, but I can't remember seeing one with such a slimy (to put it mildly) protagonist who refuses to even consider that they've done a bad thing that needs to be undone. This movie was cruel and nasty and deeply discomforting (and I don't mean that in a bad way). Also, Inde Navarrette's performance was insane (and I also don't mean that in a bad way). The sketch comedy to horror pipeline is still going strong. 4.5/5.
 
 **In the Grey**: This felt like a screenshot of a photograph of a fax of a Guy Ritchie movie. Where was all the snappy editing and the punchy action (no pun intended) and the witty dialogue? It almost felt like the theater was under water and the movie was muffled and moving slower as a result. 2/5.
 
@@ -52,3 +52,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **I Love Boosters**: I didn't think that Boots Riley could get even crazier with the styling, set design, and messaging compared to *[Sorry to Bother You](https://en.wikipedia.org/wiki/Sorry_to_Bother_You)*, but I'm glad to be proven wrong. I feel as though the ending is a bit overly optimistic, but I would love to be proven wrong again. 3.5/5.
 
 **Backrooms**: This movie was quite the departure from the more vibes-based [web series](https://www.youtube.com/playlist?list=PLVAh-MgDVqvDUEq6qDXqORBioE4Yhol_z) that Kane Pixels created, but I can't imagine this movie would have gotten the financial support and distribution it got without some sort of character-driven plot (although maybe *[Skinamarink](https://en.wikipedia.org/wiki/Skinamarink)* proves me wrong). Despite the change in mood, I thought that this movie still delivered on tension and creepy moments (such as Clark's first trip to the Backrooms, the laundry pile room, and the Christmas tree room) and that Chiwetel Ejiofor delivered a great descending-into-madness performance. 4.5/5.
+
+**Pressure**: This movie was well acted and told an interesting story. It's nice that [Pvt. Hall and Maj. Winters got to have a reunion](https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)#Episodes). 4/5.

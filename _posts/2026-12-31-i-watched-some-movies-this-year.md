@@ -60,3 +60,5 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 **Leviticus**: "We need fear" is such a great and telling piece of dialogue for that character. The "walking out from behind the bus" jump scare is even sillier in the movie than the trailer, though. 4/5.
 
 **Evil Dead Burn**: Those dead sure do be evil. And trying to burn stuff. I don't know. This movie had a lot going for it with great gore and effects and humor and camera work, but I just found it difficult to care about any of the characters (except for the one who had a decent bit of characterization and got to face her abuser) before they got thrown into the meat grinder. I mean, thrown onto the dishwasher. 3.5/5.
+
+**The Odyssey**: Who needs trivialities like compelling acting (at least Hathaway and Leguizamo seemed like they were trying) and decent pacing (though, to be fair, the *Odyssey* is quite a long poem) when the movie has such nice cinematography and landscapes? 3/5.

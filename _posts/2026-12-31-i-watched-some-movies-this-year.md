@@ -31,7 +31,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **The Drama**: Single life may get lonely at times, but at least you don't have to deal with whatever this was. It didn't quite get to the sweat-inducing heights of other ["social anxiety horror movies"](https://www.youtube.com/watch?v=V0lDtJIlUnc) for me, but maybe that just means it's a more realistic and relatable movie. Also, I liked the ["hell is other people"](https://en.wikipedia.org/wiki/No_Exit) vibes from the wedding scene near the end. 3.5/5.
 
-**８番出口**: 気味悪いウォーキングシミュレーターゲームから本物の映画まで本当に出来ました。面白いキャラ。賢いカメラの運動さ。感動的なテーマ。素敵な映画。　4.5/5.
+「８番出口」: 気味悪いウォーキングシミュレーターゲームから本物の映画まで本当に出来ました。面白いキャラ。賢いカメラの運動さ。感動的なテーマ。素敵な映画。　4.5/5.
 
 **The Mummy**: This movie was basically *[The Exorcist](https://en.wikipedia.org/wiki/The_Exorcist)* with a splash of *[Evil Dead](https://en.wikipedia.org/wiki/Evil_Dead)*. I knew this wasn't going to be an adventure movie like the original and the *Evil Dead* influence isn't surprising considering [the director's previous work](https://en.wikipedia.org/wiki/Evil_Dead_Rise), but I was hoping it would at least be somewhat original in its premise. I will, however, give it credit for being the nastiest movie I've seen in a hot minute. 3/5.
 
@@ -61,7 +61,7 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Evil Dead Burn**: Those dead sure do be evil. And trying to burn stuff. I don't know. This movie had a lot going for it with great gore and effects and humor and camera work, but I just found it difficult to care about any of the characters (except for the one who had a decent bit of characterization and got to face her abuser) before they got thrown into the meat grinder. I mean, thrown onto the dishwasher. 3.5/5.
 
-**The Odyssey**: Who needs trivialities like compelling acting (at least Hathaway and Leguizamo seemed like they were trying) and decent pacing (though, to be fair, the *Odyssey* is quite a long poem) when the movie has such nice cinematography and landscapes? 3/5.
+**The Odyssey**: Who needs trivialities like compelling acting and decent pacing (though, to be fair, the *Odyssey* is quite a long poem) when the movie has such nice cinematography and landscapes? 3/5.
 
 **Hope**: This movie was so promising for the first half hour or so. After the first alien appeared in full, it all went down a very repetitive hill. The same "car chase" shots. The same "hunters walking around the woods" shots. The same "aliens running around" shots. The same dialogue. I felt like I was watching a live action battle shonen with PS2 era graphics (including the filler). 2/5.
 
@@ -69,4 +69,4 @@ Welcome to my very professional and very in-depth thoughts on the (new) movies I
 
 **Primetime**: "What's a merch site?" I guess some things *do* change. 3.5/5.
 
-**Fresh Meat**: It's pretty cool that *Dead Meat* were able to highlight some truly indie horror talents and get them on the big screen. Some of the earlier segments were a little cliche and predictable, but they ramped up *hard* by the end. I also noticed that I was more of a fan of the more comedic and absurd shorts. I wonder if that blending of genres helped the filmmakers be able to stray way from some of the classic horror tropes that I feel made the first few segments a little ~~to-the-numbers~~ by-the-numbers. My favorite segments (in no particular order) were probably *Dagnabbit*, *What's in my Bag?*, *Jinx*, and the vape one. I also feel the need to mention *透明な犬のココ* because 日本語から逃せない. 4/5.
+**Fresh Meat**: It's pretty cool that *Dead Meat* were able to highlight some truly indie horror talents and get them on the big screen. Some of the earlier segments were a little cliche and predictable, but they ramped up *hard* by the end. I also noticed that I was more of a fan of the more comedic and absurd shorts. I wonder if that blending of genres helped the filmmakers be able to stray way from some of the classic horror tropes that I feel made the first few segments a little ~~to-the-numbers~~ by-the-numbers. My favorite segments (in no particular order) were probably *Dagnabbit*, *What's in my Bag?*, *Jinx*, and the vape one. I also feel the need to mention 「透明な犬のココ」 because 日本語から逃げられない. 4/5.

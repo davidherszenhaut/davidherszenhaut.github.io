@@ -79,6 +79,7 @@ permalink: /:categories/:title/
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 whitelist:
   - jekyll-feed
 

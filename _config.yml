@@ -1,4 +1,4 @@
-remote_theme: academicpages/academicpages.github.io
+remote_theme: academicpages/academicpages.github.io@v0.9
 
 locale: "en-US"
 title: "David Herszenhaut"
